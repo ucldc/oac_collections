@@ -31,7 +31,7 @@ def main(argv=None):
     print_titles(process_url(titles_base, xsl_collections), file=title_file)
 
     for char in string.ascii_lowercase:
-        title_file = open(os.path.join(this_dir, ''.join([char, '_titles.tsv'])),'w')
+        title_file = open(os.path.join(this_dir, '..', 'titles', ''.join([char, '_titles.tsv'])),'w')
         print_titles(process_url(''.join([titles_base, char, '.html']), xsl_collections),
             file=title_file)
 
