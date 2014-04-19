@@ -3,6 +3,7 @@
 """
 
 """
+from __future__ import print_function
 import argparse
 import string
 import os
@@ -16,20 +17,30 @@ def main(argv=None):
     if argv is None:
         argv = parser.parse_args()
 
-    titles_base = 'http://oac.cdlib.org/titles/'
-    process_url(titles_base)
-    for char in string.ascii_lowercase:
-        process_url(''.join([titles_base, char, '.html']))
-
-
-def process_url(url):
     this_dir = os.path.dirname(os.path.abspath(__file__))
-    url = ''.join([url, '?raw=1'])
-    xsl = os.path.join(this_dir, 'crawl_collections.xsl')
-    print subprocess.check_output(["xsltproc", xsl, url]
-        ).replace('<?xml version="1.0"?>\n',''
-        ).replace('http://ark.cdlib.org/ark:','http://oac.cdlib.org/findaid/ark:')
+    xsl_collections = os.path.join(this_dir, 'xsl_collections.xsl')
+    xsl_institutions = os.path.join(this_dir, 'xsl_institutions.xsl')
+    
+    institutions_file = open(os.path.join(this_dir,'contributors.txt'),'w')
+    titles_file = open(os.path.join(this_dir,'collections_titles.txt'),'w')
 
+    print(process_url('http://oac.cdlib.org/institutions/', xsl_institutions), 
+          file=institutions_file)
+
+    titles_base = 'http://oac.cdlib.org/titles/'
+
+    print(process_url(titles_base, xsl_collections), file=titles_file)
+
+    for char in string.ascii_lowercase:
+        print( process_url(''.join([titles_base, char, '.html']), xsl_collections),
+               file=titles_file)
+
+
+def process_url(url, xsl):
+    url = ''.join([url, '?raw=1'])
+    return subprocess.check_output(["xsltproc", xsl, url]
+        ).replace('<?xml version="1.0"?>\n','')
+    #.replace('http://ark.cdlib.org/ark:','http://oac.cdlib.org/findaid/ark:')
 
 # main() idiom for importing into REPL for debugging
 if __name__ == "__main__":
