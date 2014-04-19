@@ -21,8 +21,8 @@ def main(argv=None):
     xsl_collections = os.path.join(this_dir, 'xsl_collections.xsl')
     xsl_institutions = os.path.join(this_dir, 'xsl_institutions.xsl')
     
-    institutions_file = open(os.path.join(this_dir,'contributors.txt'),'w')
-    titles_file = open(os.path.join(this_dir,'collections_titles.txt'),'w')
+    institutions_file = open(os.path.join(this_dir,'contributors.tsv'),'w')
+    titles_file = open(os.path.join(this_dir,'collections_titles.tsv'),'w')
 
     print(process_url('http://oac.cdlib.org/institutions/', xsl_institutions), 
           file=institutions_file)
