@@ -29,18 +29,21 @@ def main(argv=None):
 
     titles_base = 'http://oac.cdlib.org/titles/'
 
-    print(process_url(titles_base, xsl_collections), file=titles_file)
+    print_titles(process_url(titles_base, xsl_collections), file=titles_file)
 
     for char in string.ascii_lowercase:
-        print( process_url(''.join([titles_base, char, '.html']), xsl_collections),
-               file=titles_file)
+        print_titles(process_url(''.join([titles_base, char, '.html']), xsl_collections),
+            file=titles_file)
+
+def print_titles(string, file):
+    print(string.replace('http://ark.cdlib.org/ark:','http://www.oac.cdlib.org/findaid/ark:'),
+        file=file)
 
 
 def process_url(url, xsl):
     url = ''.join([url, '?raw=1'])
     return subprocess.check_output(["xsltproc", xsl, url]
         ).replace('<?xml version="1.0"?>\n','')
-    #.replace('http://ark.cdlib.org/ark:','http://oac.cdlib.org/findaid/ark:')
 
 # main() idiom for importing into REPL for debugging
 if __name__ == "__main__":
