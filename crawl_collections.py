@@ -22,18 +22,18 @@ def main(argv=None):
     xsl_institutions = os.path.join(this_dir, 'xsl_institutions.xsl')
     
     institutions_file = open(os.path.join(this_dir,'contributors.tsv'),'w')
-    titles_file = open(os.path.join(this_dir,'collections_titles.tsv'),'w')
-
     print(process_url('http://oac.cdlib.org/institutions/', xsl_institutions), 
           file=institutions_file)
 
     titles_base = 'http://oac.cdlib.org/titles/'
 
-    print_titles(process_url(titles_base, xsl_collections), file=titles_file)
+    title_file = open(os.path.join(this_dir, '0-9_titles.tsv'),'w')
+    print_titles(process_url(titles_base, xsl_collections), file=title_file)
 
     for char in string.ascii_lowercase:
+        title_file = open(os.path.join(this_dir, ''.join([char, '_titles.tsv'])),'w')
         print_titles(process_url(''.join([titles_base, char, '.html']), xsl_collections),
-            file=titles_file)
+            file=title_file)
 
 def print_titles(string, file):
     print(string.replace('http://ark.cdlib.org/ark:','http://www.oac.cdlib.org/findaid/ark:'),
