@@ -27,7 +27,7 @@ def main(argv=None):
 
     titles_base = 'http://oac.cdlib.org/titles/'
 
-    title_file = open(os.path.join(this_dir, '..', 'titles',  '0-9_titles.tsv'),'w')
+    title_file = open(os.path.join(this_dir, '..', 'az_titles',  '0-9_titles.tsv'),'w')
     print_titles(process_url(titles_base, xsl_collections), file=title_file)
 
     for char in string.ascii_lowercase:
