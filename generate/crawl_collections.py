@@ -21,7 +21,7 @@ def main(argv=None):
     xsl_collections = os.path.join(this_dir, 'xsl_collections.xsl')
     xsl_institutions = os.path.join(this_dir, 'xsl_institutions.xsl')
     
-    institutions_file = open(os.path.join(this_dir,'..','institutions','contributors.tsv'),'w')
+    institutions_file = open(os.path.join(this_dir,'..','institutions.tsv'),'w')
     print(process_url('http://oac.cdlib.org/institutions/', xsl_institutions), 
           file=institutions_file)
 
@@ -31,7 +31,7 @@ def main(argv=None):
     print_titles(process_url(titles_base, xsl_collections), file=title_file)
 
     for char in string.ascii_lowercase:
-        title_file = open(os.path.join(this_dir, '..', 'titles', ''.join([char, '_titles.tsv'])),'w')
+        title_file = open(os.path.join(this_dir, '..', 'az_titles', ''.join([char, '_titles.tsv'])),'w')
         print_titles(process_url(''.join([titles_base, char, '.html']), xsl_collections),
             file=title_file)
 
