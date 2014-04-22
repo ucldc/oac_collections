@@ -4,7 +4,7 @@ count	level1	level2	onlineItems
 27	Agua Caliente Cultural Museum	""	onlineItems
 1	"Alameda County Library, Dublin Library"	""	onlineItems
 1	Albany Library	""	onlineItems
-2	American Jewish University	""	onlineItems
+3	American Jewish University	""	onlineItems
 1	Anaheim Public Library	""	onlineItems
 1	Arcadia Public Library	""	onlineItems
 2	Art Center College of Design Archives	""	""
@@ -100,7 +100,7 @@ count	level1	level2	onlineItems
 9	"Los Angeles County Museum of Art, Balch Art Research Library"	""	""
 5	Los Angeles Maritime Museum	""	onlineItems
 1	Los Angeles Philharmonic Archives	""	onlineItems
-86	"Loyola Marymount University, Department of Archives and Special Collections, William H. Hannon Library"	""	onlineItems
+88	"Loyola Marymount University, Department of Archives and Special Collections, William H. Hannon Library"	""	onlineItems
 1	Marin County Free Library	""	onlineItems
 1	Mill Valley Public Library	""	onlineItems
 4	Mills College	""	onlineItems
@@ -111,7 +111,7 @@ count	level1	level2	onlineItems
 37	Museum of Ventura County	""	""
 28	NASA Ames Research Center	""	""
 5	"Nevada County Libraries, Doris Foley Library for Historical Research"	""	onlineItems
-487	ONE National Gay and Lesbian Archives	""	""
+488	ONE National Gay and Lesbian Archives	""	""
 4	Oakland Museum of California	""	onlineItems
 100	Oakland Public Library	""	onlineItems
 99	""	African American Museum and Library at Oakland	""
@@ -244,7 +244,7 @@ count	level1	level2	onlineItems
 298	UC Santa Cruz	""	onlineItems
 248	""	Special Collections and Archives	onlineItems
 50	""	University Archives	""
-3156	UCLA	""	onlineItems
+3158	UCLA	""	onlineItems
 101	""	Chicano Studies Research Center	""
 137	""	Clark (William Andrews) Memorial Library	""
 48	""	Ethnomusicology Archive	""
@@ -255,7 +255,7 @@ count	level1	level2	onlineItems
 1837	""	"Library Special Collections, Charles E. Young Research Library"	onlineItems
 169	""	"Library Special Collections, History and Special Collections for the Sciences"	""
 360	""	"Library Special Collections, Performing Arts"	onlineItems
-469	""	"Library Special Collections, University Archives"	""
+471	""	"Library Special Collections, University Archives"	""
 1	Unemployment Insurance Division Library	""	""
 376	University of Southern California	""	onlineItems
 2	""	Boeckmann Center for Iberian and Latin American Studies	""
