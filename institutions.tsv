@@ -1,6 +1,6 @@
 count	level1	level2	onlineItems
-249	Academy of Motion Picture Arts and Sciences	""	onlineItems
-249	""	Margaret Herrick Library	onlineItems
+260	Academy of Motion Picture Arts and Sciences	""	onlineItems
+260	""	Margaret Herrick Library	onlineItems
 27	Agua Caliente Cultural Museum	""	onlineItems
 1	"Alameda County Library, Dublin Library"	""	onlineItems
 1	Albany Library	""	onlineItems
@@ -8,7 +8,7 @@ count	level1	level2	onlineItems
 1	Anaheim Public Library	""	onlineItems
 1	Arcadia Public Library	""	onlineItems
 2	Art Center College of Design Archives	""	""
-357	Autry National Center	""	onlineItems
+358	Autry National Center	""	onlineItems
 1	Banning Library District	""	onlineItems
 1	Beaumont Library District	""	onlineItems
 1	Berkeley Public Library	""	onlineItems
@@ -16,7 +16,7 @@ count	level1	level2	onlineItems
 12	California Academy of Sciences	""	onlineItems
 2	California College of the Arts Libraries	""	""
 148	California Historical Society	""	onlineItems
-106	California Institute of Technology	""	onlineItems
+107	California Institute of Technology	""	onlineItems
 5	California Institute of the Arts Institute Archive	""	onlineItems
 8	California Jesuit Archives	""	""
 6	"California Judicial Center Library, Special Collections and Archives"	""	""
@@ -24,10 +24,10 @@ count	level1	level2	onlineItems
 345	California State Archives	""	""
 1099	California State Library	""	onlineItems
 16	California State Parks	""	""
-21	"California State Polytechnic University, Pomona"	""	""
+22	"California State Polytechnic University, Pomona"	""	""
 1	""	ENV Archives-Special Collections	""
 18	""	University Library Special Collections	""
-2	""	W.K. Kellogg Arabian Horse Library	""
+3	""	W.K. Kellogg Arabian Horse Library	""
 147	California State Railroad Museum Library	""	""
 2	California State University Channel Islands	""	onlineItems
 47	"California State University, Chico"	""	onlineItems
@@ -82,8 +82,8 @@ count	level1	level2	onlineItems
 71	History San Jose Research Library	""	onlineItems
 6034	Hoover Institution	""	onlineItems
 10	Humboldt State University Library	""	onlineItems
-367	Huntington Library	""	onlineItems
-4	""	Architecture Collections	onlineItems
+368	Huntington Library	""	onlineItems
+5	""	Architecture Collections	onlineItems
 257	""	Manuscripts Department	""
 82	""	Photo Archives	onlineItems
 18	""	Prints and Ephemera	onlineItems
@@ -111,7 +111,7 @@ count	level1	level2	onlineItems
 37	Museum of Ventura County	""	""
 28	NASA Ames Research Center	""	""
 5	"Nevada County Libraries, Doris Foley Library for Historical Research"	""	onlineItems
-488	ONE National Gay and Lesbian Archives	""	""
+489	ONE National Gay and Lesbian Archives	""	""
 4	Oakland Museum of California	""	onlineItems
 100	Oakland Public Library	""	onlineItems
 99	""	African American Museum and Library at Oakland	""
@@ -174,24 +174,24 @@ count	level1	level2	onlineItems
 6	Sequoia and Kings Canyon National Parks	""	""
 16	Sherman Library and Gardens	""	""
 2	Sierra Madre Public Library	""	""
-123	Society of California Pioneers	""	onlineItems
+127	Society of California Pioneers	""	onlineItems
 1	Sonoma County Library	""	onlineItems
 27	Sonoma State University Library	""	onlineItems
 13	Sourisseau Academy for State and Local History	""	onlineItems
 1	South Pasadena Public Library	""	onlineItems
 1	South San Francisco Public Library	""	onlineItems
 85	Southern California Library for Social Studies and Research	""	onlineItems
-2929	Stanford University	""	onlineItems
+2930	Stanford University	""	onlineItems
 732	""	Manuscripts Division	onlineItems
 8	""	Rare Books Division	""
-98	""	Stanford Archive of Recorded Sound	onlineItems
+99	""	Stanford Archive of Recorded Sound	onlineItems
 5	""	Stanford Music Library	onlineItems
 2085	""	University Archives	onlineItems
 1	Sutter County Library	""	onlineItems
 46	Tauber Holocaust Library	""	""
 2	Thousand Oaks Library	""	onlineItems
 3	Tulare County Library	""	onlineItems
-13768	UC Berkeley	""	onlineItems
+13769	UC Berkeley	""	onlineItems
 1	""	Art History/Classics Library	onlineItems
 12477	""	Bancroft Library	onlineItems
 15	""	Berkeley Art Museum/Pacific Film Archive	onlineItems
@@ -205,7 +205,7 @@ count	level1	level2	onlineItems
 24	""	Law Library	""
 1	""	Media Resources Center	""
 1	""	Museum of Paleontology	""
-27	""	Museum of Vertebrate Zoology	onlineItems
+28	""	Museum of Vertebrate Zoology	onlineItems
 180	""	Music Library	""
 53	""	South/Southeast Asia Library	""
 1	""	The Magnes Collection of Jewish Art and Life	""
@@ -214,21 +214,21 @@ count	level1	level2	onlineItems
 726	UC Davis	""	onlineItems
 631	""	Special Collections	onlineItems
 95	""	University Archives	onlineItems
-611	UC Irvine	""	onlineItems
+615	UC Irvine	""	onlineItems
 25	""	Critical Theory Archive	onlineItems
 46	""	Southeast Asian Archive	onlineItems
-359	""	Special Collections	onlineItems
-181	""	University Archives	onlineItems
+361	""	Special Collections	onlineItems
+183	""	University Archives	onlineItems
 4	UC Merced	""	onlineItems
 3	""	Library and Special Collections	onlineItems
 1	""	"Physical Planning, Design and Construction Archives"	onlineItems
-329	UC Riverside	""	onlineItems
+331	UC Riverside	""	onlineItems
 10	""	California Museum of Photography	onlineItems
-169	""	Special Collections and Archives	onlineItems
+171	""	Special Collections and Archives	onlineItems
 31	""	University Archives	""
 119	""	Water Resources Collections and Archives	onlineItems
-858	UC San Diego	""	onlineItems
-498	""	Mandeville Special Collections Library	onlineItems
+859	UC San Diego	""	onlineItems
+499	""	Mandeville Special Collections Library	onlineItems
 1	""	Research Data Curation Program	onlineItems
 325	""	Scripps Institution of Oceanography Archives	""
 34	""	University Archives	onlineItems
@@ -237,10 +237,10 @@ count	level1	level2	onlineItems
 164	""	Special Collections	onlineItems
 24	""	Tobacco Control Archives	onlineItems
 26	""	University Archives	""
-1414	UC Santa Barbara	""	onlineItems
+1416	UC Santa Barbara	""	onlineItems
 227	""	"Architecture and Design Collection, Art, Design and Architecture Museum"	""
 16	""	Cheadle Center for Biodiversity and Ecological Restoration	onlineItems
-1170	""	Special Collections	onlineItems
+1172	""	Special Collections	onlineItems
 298	UC Santa Cruz	""	onlineItems
 248	""	Special Collections and Archives	onlineItems
 50	""	University Archives	""
