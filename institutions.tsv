@@ -22,7 +22,7 @@ count	level1	level2	onlineItems
 6	"California Judicial Center Library, Special Collections and Archives"	""	""
 51	California Polytechnic State University - San Luis Obispo	""	onlineItems
 345	California State Archives	""	""
-1099	California State Library	""	onlineItems
+1100	California State Library	""	onlineItems
 16	California State Parks	""	""
 22	"California State Polytechnic University, Pomona"	""	""
 1	""	ENV Archives-Special Collections	""
@@ -174,19 +174,19 @@ count	level1	level2	onlineItems
 6	Sequoia and Kings Canyon National Parks	""	""
 16	Sherman Library and Gardens	""	""
 2	Sierra Madre Public Library	""	""
-127	Society of California Pioneers	""	onlineItems
+132	Society of California Pioneers	""	onlineItems
 1	Sonoma County Library	""	onlineItems
 27	Sonoma State University Library	""	onlineItems
 13	Sourisseau Academy for State and Local History	""	onlineItems
 1	South Pasadena Public Library	""	onlineItems
 1	South San Francisco Public Library	""	onlineItems
 85	Southern California Library for Social Studies and Research	""	onlineItems
-2930	Stanford University	""	onlineItems
+2932	Stanford University	""	onlineItems
 732	""	Manuscripts Division	onlineItems
 8	""	Rare Books Division	""
-99	""	Stanford Archive of Recorded Sound	onlineItems
+100	""	Stanford Archive of Recorded Sound	onlineItems
 5	""	Stanford Music Library	onlineItems
-2085	""	University Archives	onlineItems
+2086	""	University Archives	onlineItems
 1	Sutter County Library	""	onlineItems
 46	Tauber Holocaust Library	""	""
 2	Thousand Oaks Library	""	onlineItems
@@ -214,10 +214,10 @@ count	level1	level2	onlineItems
 726	UC Davis	""	onlineItems
 631	""	Special Collections	onlineItems
 95	""	University Archives	onlineItems
-615	UC Irvine	""	onlineItems
+617	UC Irvine	""	onlineItems
 25	""	Critical Theory Archive	onlineItems
 46	""	Southeast Asian Archive	onlineItems
-361	""	Special Collections	onlineItems
+363	""	Special Collections	onlineItems
 183	""	University Archives	onlineItems
 4	UC Merced	""	onlineItems
 3	""	Library and Special Collections	onlineItems
