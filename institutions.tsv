@@ -77,14 +77,14 @@ count	level1	level2	onlineItems
 48	""	Institutional Archives	onlineItems
 299	""	Special Collections	onlineItems
 4	Glendale Public Library	""	onlineItems
-118	Graduate Theological Union	""	onlineItems
+119	Graduate Theological Union	""	onlineItems
 1	Historical Sites Society of Arcata	""	""
 72	History San Jose Research Library	""	onlineItems
 6035	Hoover Institution	""	onlineItems
 10	Humboldt State University Library	""	onlineItems
-370	Huntington Library	""	onlineItems
-5	""	Architecture Collections	onlineItems
-258	""	Manuscripts Department	""
+373	Huntington Library	""	onlineItems
+6	""	Architecture Collections	onlineItems
+260	""	Manuscripts Department	""
 82	""	Photo Archives	onlineItems
 19	""	Prints and Ephemera	onlineItems
 4	""	Rare Books Department	""
@@ -108,6 +108,7 @@ count	level1	level2	onlineItems
 1	Monterey County Free Libraries	""	onlineItems
 1	Monterey Park Bruggemeyer Library	""	onlineItems
 2	"Museum of Performance and Design, Performing Arts Library"	""	onlineItems
+1	Museum of Photographic Arts	""	""
 37	Museum of Ventura County	""	""
 29	NASA Ames Research Center	""	""
 5	"Nevada County Libraries, Doris Foley Library for Historical Research"	""	onlineItems
@@ -165,7 +166,7 @@ count	level1	level2	onlineItems
 25	Santa Barbara Trust for Historic Preservation. Presidio Research Center	""	""
 1	Santa Clara City Library	""	onlineItems
 44	Santa Clara County Archives	""	""
-25	Santa Clara University	""	onlineItems
+26	Santa Clara University	""	onlineItems
 1	"Santa Cruz Public Libraries, Scotts Valley Branch"	""	onlineItems
 1	Santa Fe Springs City Library	""	onlineItems
 3	Santa Monica Public Library	""	onlineItems
@@ -174,7 +175,7 @@ count	level1	level2	onlineItems
 6	Sequoia and Kings Canyon National Parks	""	""
 16	Sherman Library and Gardens	""	""
 2	Sierra Madre Public Library	""	""
-146	Society of California Pioneers	""	onlineItems
+153	Society of California Pioneers	""	onlineItems
 1	Sonoma County Library	""	onlineItems
 27	Sonoma State University Library	""	onlineItems
 13	Sourisseau Academy for State and Local History	""	onlineItems
@@ -191,7 +192,7 @@ count	level1	level2	onlineItems
 46	Tauber Holocaust Library	""	""
 2	Thousand Oaks Library	""	onlineItems
 3	Tulare County Library	""	onlineItems
-13772	UC Berkeley	""	onlineItems
+13773	UC Berkeley	""	onlineItems
 1	""	Art History/Classics Library	onlineItems
 12478	""	Bancroft Library	onlineItems
 15	""	Berkeley Art Museum/Pacific Film Archive	onlineItems
@@ -205,14 +206,14 @@ count	level1	level2	onlineItems
 24	""	Law Library	""
 1	""	Media Resources Center	""
 1	""	Museum of Paleontology	""
-29	""	Museum of Vertebrate Zoology	onlineItems
+30	""	Museum of Vertebrate Zoology	onlineItems
 180	""	Music Library	""
 53	""	South/Southeast Asia Library	""
 1	""	The Magnes Collection of Jewish Art and Life	""
 1	""	The Robbins Collection	""
 102	""	University Archives	onlineItems
-726	UC Davis	""	onlineItems
-631	""	Special Collections	onlineItems
+731	UC Davis	""	onlineItems
+636	""	Special Collections	onlineItems
 95	""	University Archives	onlineItems
 617	UC Irvine	""	onlineItems
 25	""	Critical Theory Archive	onlineItems
@@ -241,8 +242,8 @@ count	level1	level2	onlineItems
 227	""	"Architecture and Design Collection, Art, Design and Architecture Museum"	""
 16	""	Cheadle Center for Biodiversity and Ecological Restoration	onlineItems
 1173	""	Special Collections	onlineItems
-299	UC Santa Cruz	""	onlineItems
-248	""	Special Collections and Archives	onlineItems
+300	UC Santa Cruz	""	onlineItems
+249	""	Special Collections and Archives	onlineItems
 51	""	University Archives	""
 3160	UCLA	""	onlineItems
 101	""	Chicano Studies Research Center	""
@@ -257,16 +258,16 @@ count	level1	level2	onlineItems
 361	""	"Library Special Collections, Performing Arts"	onlineItems
 471	""	"Library Special Collections, University Archives"	""
 1	Unemployment Insurance Division Library	""	""
-376	University of Southern California	""	onlineItems
+379	University of Southern California	""	onlineItems
 2	""	Boeckmann Center for Iberian and Latin American Studies	""
 88	""	California Social Welfare Archives	""
 7	""	Cinematic Arts Library	""
 1	""	East Asian Library	""
 13	""	Feuchtwanger Memorial Library	""
 1	""	Greene and Greene Archives	""
-146	""	Manuscripts and Archives	""
+148	""	Manuscripts and Archives	""
 72	""	Regional History Collection	onlineItems
-46	""	University Archives	onlineItems
+47	""	University Archives	onlineItems
 305	University of the Pacific	""	onlineItems
 1	Upland Public Library	""	onlineItems
 4	Visual Communications Archives and Media Resource Library	""	""
