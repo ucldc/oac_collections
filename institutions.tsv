@@ -21,7 +21,7 @@ count	level1	level2	onlineItems
 8	California Jesuit Archives	""	""
 6	"California Judicial Center Library, Special Collections and Archives"	""	""
 51	California Polytechnic State University - San Luis Obispo	""	onlineItems
-350	California State Archives	""	""
+352	California State Archives	""	""
 1101	California State Library	""	onlineItems
 16	California State Parks	""	""
 22	"California State Polytechnic University, Pomona"	""	""
@@ -175,15 +175,15 @@ count	level1	level2	onlineItems
 6	Sequoia and Kings Canyon National Parks	""	""
 16	Sherman Library and Gardens	""	""
 2	Sierra Madre Public Library	""	""
-153	Society of California Pioneers	""	onlineItems
+155	Society of California Pioneers	""	onlineItems
 1	Sonoma County Library	""	onlineItems
 27	Sonoma State University Library	""	onlineItems
 13	Sourisseau Academy for State and Local History	""	onlineItems
 1	South Pasadena Public Library	""	onlineItems
 1	South San Francisco Public Library	""	onlineItems
 85	Southern California Library for Social Studies and Research	""	onlineItems
-2933	Stanford University	""	onlineItems
-733	""	Manuscripts Division	onlineItems
+2934	Stanford University	""	onlineItems
+734	""	Manuscripts Division	onlineItems
 8	""	Rare Books Division	""
 100	""	Stanford Archive of Recorded Sound	onlineItems
 5	""	Stanford Music Library	onlineItems
@@ -238,14 +238,14 @@ count	level1	level2	onlineItems
 166	""	Special Collections	onlineItems
 24	""	Tobacco Control Archives	onlineItems
 26	""	University Archives	""
-1417	UC Santa Barbara	""	onlineItems
+1419	UC Santa Barbara	""	onlineItems
 227	""	"Architecture and Design Collection, Art, Design and Architecture Museum"	""
 16	""	Cheadle Center for Biodiversity and Ecological Restoration	onlineItems
-1173	""	Special Collections	onlineItems
+1175	""	Special Collections	onlineItems
 300	UC Santa Cruz	""	onlineItems
 249	""	Special Collections and Archives	onlineItems
 51	""	University Archives	""
-3160	UCLA	""	onlineItems
+3163	UCLA	""	onlineItems
 101	""	Chicano Studies Research Center	""
 137	""	Clark (William Andrews) Memorial Library	""
 48	""	Ethnomusicology Archive	""
@@ -253,7 +253,7 @@ count	level1	level2	onlineItems
 9	""	Fowler Museum of Cultural History	onlineItems
 4	""	Grunwald Center for the Graphic Arts	onlineItems
 1	""	"Library Special Collections, Center for Oral History Research"	onlineItems
-1838	""	"Library Special Collections, Charles E. Young Research Library"	onlineItems
+1841	""	"Library Special Collections, Charles E. Young Research Library"	onlineItems
 169	""	"Library Special Collections, History and Special Collections for the Sciences"	""
 361	""	"Library Special Collections, Performing Arts"	onlineItems
 471	""	"Library Special Collections, University Archives"	""
