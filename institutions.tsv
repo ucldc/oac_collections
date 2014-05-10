@@ -72,10 +72,10 @@ count	level1	level2	onlineItems
 2	Fresno County Public Library	""	onlineItems
 73	Fuller Theological Seminary-David Allan Hubbard Library Archives	""	""
 1	Fullerton College	""	onlineItems
-172	"Gay, Lesbian, Bisexual, Transgender Historical Society"	""	onlineItems
-347	Getty Research Institute	""	onlineItems
+173	"Gay, Lesbian, Bisexual, Transgender Historical Society"	""	onlineItems
+349	Getty Research Institute	""	onlineItems
 48	""	Institutional Archives	onlineItems
-299	""	Special Collections	onlineItems
+301	""	Special Collections	onlineItems
 4	Glendale Public Library	""	onlineItems
 119	Graduate Theological Union	""	onlineItems
 1	Historical Sites Society of Arcata	""	""
@@ -112,7 +112,7 @@ count	level1	level2	onlineItems
 37	Museum of Ventura County	""	""
 29	NASA Ames Research Center	""	""
 5	"Nevada County Libraries, Doris Foley Library for Historical Research"	""	onlineItems
-490	ONE National Gay and Lesbian Archives	""	""
+495	ONE National Gay and Lesbian Archives	""	""
 4	Oakland Museum of California	""	onlineItems
 101	Oakland Public Library	""	onlineItems
 100	""	African American Museum and Library at Oakland	""
@@ -139,7 +139,7 @@ count	level1	level2	onlineItems
 2	Riverside Public Library	""	onlineItems
 12	Roseville Public Library	""	""
 12	Sacramento County Office of Education	""	""
-17	Sacramento Public Library	""	""
+18	Sacramento Public Library	""	""
 2	San Bernardino Public Library	""	onlineItems
 1	San Bruno Public Library	""	onlineItems
 24	San Diego Air and Space Museum Library and Archives	""	""
@@ -233,19 +233,19 @@ count	level1	level2	onlineItems
 1	""	Research Data Curation Program	onlineItems
 325	""	Scripps Institution of Oceanography Archives	""
 34	""	University Archives	onlineItems
-220	UC San Francisco	""	onlineItems
+221	UC San Francisco	""	onlineItems
 4	""	H.M. Fishbon Memorial Library	onlineItems
 166	""	Special Collections	onlineItems
 24	""	Tobacco Control Archives	onlineItems
-26	""	University Archives	""
-1419	UC Santa Barbara	""	onlineItems
+27	""	University Archives	""
+1423	UC Santa Barbara	""	onlineItems
 227	""	"Architecture and Design Collection, Art, Design and Architecture Museum"	""
 16	""	Cheadle Center for Biodiversity and Ecological Restoration	onlineItems
-1175	""	Special Collections	onlineItems
-300	UC Santa Cruz	""	onlineItems
-249	""	Special Collections and Archives	onlineItems
+1179	""	Special Collections	onlineItems
+302	UC Santa Cruz	""	onlineItems
+251	""	Special Collections and Archives	onlineItems
 51	""	University Archives	""
-3163	UCLA	""	onlineItems
+3167	UCLA	""	onlineItems
 101	""	Chicano Studies Research Center	""
 137	""	Clark (William Andrews) Memorial Library	""
 48	""	Ethnomusicology Archive	""
@@ -256,7 +256,7 @@ count	level1	level2	onlineItems
 1841	""	"Library Special Collections, Charles E. Young Research Library"	onlineItems
 169	""	"Library Special Collections, History and Special Collections for the Sciences"	""
 361	""	"Library Special Collections, Performing Arts"	onlineItems
-471	""	"Library Special Collections, University Archives"	""
+475	""	"Library Special Collections, University Archives"	""
 1	Unemployment Insurance Division Library	""	""
 379	University of Southern California	""	onlineItems
 2	""	Boeckmann Center for Iberian and Latin American Studies	""
