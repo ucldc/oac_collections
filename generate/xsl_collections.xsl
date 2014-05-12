@@ -7,7 +7,7 @@
   <xsl:output type="text"/>
 
   <xsl:template match="/">
-    <xsl:text>rel=cannonical	title	parent</xsl:text><xsl:text>
+    <xsl:text>rel=cannonical	title	parent	onlineItems</xsl:text><xsl:text>
 </xsl:text>
     <xsl:apply-templates select="crossQueryResult/facet/group/docHit[meta/oac4-tab='Collections::ead']"/>
   </xsl:template>
@@ -25,6 +25,10 @@
     <xsl:text>	</xsl:text>
     <xsl:call-template name="display_csv_field">
       <xsl:with-param name="field" select="$parent"/>
+    </xsl:call-template>
+    <xsl:text>	</xsl:text>
+    <xsl:call-template name="display_csv_field">
+      <xsl:with-param name="field" select="boolean(meta/facet-onlineItems='Items online')"/>
     </xsl:call-template>
 <xsl:if test="count(following-sibling::*) > 0">
     <xsl:text>
