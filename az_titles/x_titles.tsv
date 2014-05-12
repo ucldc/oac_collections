@@ -1,7 +1,7 @@
-rel=cannonical	title	parent
-http://www.oac.cdlib.org/findaid/ark:/13030/kt5f59r00w	X (Marvin) Papers	ark:/13030/tf7r29p8s0
-http://www.oac.cdlib.org/findaid/ark:/13030/kt82903889	Xie (Chi) papers	ark:/13030/tf4m3nb8sq
-http://www.oac.cdlib.org/findaid/ark:/13030/kt696nf1w7	Xin hua tong xun she radio broadcast transcripts	ark:/13030/tf4m3nb8sq
-http://www.oac.cdlib.org/findaid/ark:/13030/c8v988ms	Xth Olympiad Scrapbook (1932)	ark:/13030/kt4c60381d
-http://www.oac.cdlib.org/findaid/ark:/13030/kt8f59s0rn	Xue (Jundu) writings	ark:/13030/tf4m3nb8sq
+rel=cannonical	title	parent	onlineItems
+http://www.oac.cdlib.org/findaid/ark:/13030/kt5f59r00w	X (Marvin) Papers	ark:/13030/tf7r29p8s0	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt82903889	Xie (Chi) papers	ark:/13030/tf4m3nb8sq	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt696nf1w7	Xin hua tong xun she radio broadcast transcripts	ark:/13030/tf4m3nb8sq	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8v988ms	Xth Olympiad Scrapbook (1932)	ark:/13030/kt4c60381d	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt8f59s0rn	Xue (Jundu) writings	ark:/13030/tf4m3nb8sq	false
 
