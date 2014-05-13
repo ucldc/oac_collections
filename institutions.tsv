@@ -22,7 +22,7 @@ count	level1	level2	onlineItems
 6	"California Judicial Center Library, Special Collections and Archives"	""	""
 51	California Polytechnic State University - San Luis Obispo	""	onlineItems
 352	California State Archives	""	""
-1101	California State Library	""	onlineItems
+1103	California State Library	""	onlineItems
 16	California State Parks	""	""
 22	"California State Polytechnic University, Pomona"	""	""
 1	""	ENV Archives-Special Collections	""
@@ -148,9 +148,9 @@ count	level1	level2	onlineItems
 353	San Diego State University	""	""
 353	""	Special Collections and University Archives	""
 475	San Francisco Maritime National Historical Park	""	onlineItems
-132	San Francisco Public Library	""	onlineItems
+133	San Francisco Public Library	""	onlineItems
 47	""	James C. Hormel Gay and Lesbian Center	onlineItems
-85	""	San Francisco History Center	onlineItems
+86	""	San Francisco History Center	onlineItems
 99	San Francisco State University	""	onlineItems
 1	""	J. Paul Leonard Library	""
 98	""	Labor Archives and Research Center	onlineItems
@@ -238,14 +238,14 @@ count	level1	level2	onlineItems
 166	""	Special Collections	onlineItems
 24	""	Tobacco Control Archives	onlineItems
 27	""	University Archives	""
-1423	UC Santa Barbara	""	onlineItems
+1422	UC Santa Barbara	""	onlineItems
 227	""	"Architecture and Design Collection, Art, Design and Architecture Museum"	""
 16	""	Cheadle Center for Biodiversity and Ecological Restoration	onlineItems
-1179	""	Special Collections	onlineItems
+1178	""	Special Collections	onlineItems
 302	UC Santa Cruz	""	onlineItems
 251	""	Special Collections and Archives	onlineItems
 51	""	University Archives	""
-3167	UCLA	""	onlineItems
+3166	UCLA	""	onlineItems
 101	""	Chicano Studies Research Center	""
 137	""	Clark (William Andrews) Memorial Library	""
 48	""	Ethnomusicology Archive	""
@@ -253,7 +253,7 @@ count	level1	level2	onlineItems
 9	""	Fowler Museum of Cultural History	onlineItems
 4	""	Grunwald Center for the Graphic Arts	onlineItems
 1	""	"Library Special Collections, Center for Oral History Research"	onlineItems
-1841	""	"Library Special Collections, Charles E. Young Research Library"	onlineItems
+1840	""	"Library Special Collections, Charles E. Young Research Library"	onlineItems
 169	""	"Library Special Collections, History and Special Collections for the Sciences"	""
 361	""	"Library Special Collections, Performing Arts"	onlineItems
 475	""	"Library Special Collections, University Archives"	""
