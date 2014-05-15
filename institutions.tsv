@@ -58,9 +58,9 @@ count	level1	level2	onlineItems
 1	Chula Vista Public Library	""	onlineItems
 1	"Citrus College, Hayden Memorial Library"	""	onlineItems
 1	City of Commerce Public Library	""	onlineItems
-136	Claremont Colleges	""	""
+137	Claremont Colleges	""	""
 38	""	Denison (Ella Strong) Library	""
-98	""	Honnold/Mudd Library	""
+99	""	Honnold/Mudd Library	""
 17	Computer History Museum	""	""
 2	Corona Public Library	""	onlineItems
 1	Coronado Public Library	""	onlineItems
@@ -82,9 +82,9 @@ count	level1	level2	onlineItems
 72	History San Jose Research Library	""	onlineItems
 6035	Hoover Institution	""	onlineItems
 10	Humboldt State University Library	""	onlineItems
-373	Huntington Library	""	onlineItems
+372	Huntington Library	""	onlineItems
 6	""	Architecture Collections	onlineItems
-260	""	Manuscripts Department	""
+259	""	Manuscripts Department	""
 82	""	Photo Archives	onlineItems
 19	""	Prints and Ephemera	onlineItems
 4	""	Rare Books Department	""
@@ -108,7 +108,7 @@ count	level1	level2	onlineItems
 1	Monterey County Free Libraries	""	onlineItems
 1	Monterey Park Bruggemeyer Library	""	onlineItems
 2	"Museum of Performance and Design, Performing Arts Library"	""	onlineItems
-1	Museum of Photographic Arts	""	""
+2	Museum of Photographic Arts	""	""
 37	Museum of Ventura County	""	""
 29	NASA Ames Research Center	""	""
 5	"Nevada County Libraries, Doris Foley Library for Historical Research"	""	onlineItems
@@ -175,15 +175,15 @@ count	level1	level2	onlineItems
 6	Sequoia and Kings Canyon National Parks	""	""
 16	Sherman Library and Gardens	""	""
 2	Sierra Madre Public Library	""	""
-155	Society of California Pioneers	""	onlineItems
+156	Society of California Pioneers	""	onlineItems
 1	Sonoma County Library	""	onlineItems
 27	Sonoma State University Library	""	onlineItems
 13	Sourisseau Academy for State and Local History	""	onlineItems
 1	South Pasadena Public Library	""	onlineItems
 1	South San Francisco Public Library	""	onlineItems
 85	Southern California Library for Social Studies and Research	""	onlineItems
-2934	Stanford University	""	onlineItems
-734	""	Manuscripts Division	onlineItems
+2936	Stanford University	""	onlineItems
+736	""	Manuscripts Division	onlineItems
 8	""	Rare Books Division	""
 100	""	Stanford Archive of Recorded Sound	onlineItems
 5	""	Stanford Music Library	onlineItems
@@ -212,8 +212,8 @@ count	level1	level2	onlineItems
 1	""	The Magnes Collection of Jewish Art and Life	""
 1	""	The Robbins Collection	""
 102	""	University Archives	onlineItems
-731	UC Davis	""	onlineItems
-636	""	Special Collections	onlineItems
+733	UC Davis	""	onlineItems
+638	""	Special Collections	onlineItems
 95	""	University Archives	onlineItems
 617	UC Irvine	""	onlineItems
 25	""	Critical Theory Archive	onlineItems
@@ -238,13 +238,13 @@ count	level1	level2	onlineItems
 166	""	Special Collections	onlineItems
 24	""	Tobacco Control Archives	onlineItems
 27	""	University Archives	""
-1422	UC Santa Barbara	""	onlineItems
+3980	UC Santa Barbara	""	onlineItems
 227	""	"Architecture and Design Collection, Art, Design and Architecture Museum"	""
 16	""	Cheadle Center for Biodiversity and Ecological Restoration	onlineItems
-1178	""	Special Collections	onlineItems
-302	UC Santa Cruz	""	onlineItems
-251	""	Special Collections and Archives	onlineItems
-51	""	University Archives	""
+3736	""	Special Collections	onlineItems
+305	UC Santa Cruz	""	onlineItems
+253	""	Special Collections and Archives	onlineItems
+52	""	University Archives	""
 3166	UCLA	""	onlineItems
 101	""	Chicano Studies Research Center	""
 137	""	Clark (William Andrews) Memorial Library	""
