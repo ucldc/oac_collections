@@ -15,13 +15,13 @@ count	level1	level2	onlineItems
 1	Black Gold Cooperative Library System	""	onlineItems
 12	California Academy of Sciences	""	onlineItems
 2	California College of the Arts Libraries	""	""
-148	California Historical Society	""	onlineItems
+149	California Historical Society	""	onlineItems
 107	California Institute of Technology	""	onlineItems
 5	California Institute of the Arts Institute Archive	""	onlineItems
 8	California Jesuit Archives	""	""
 6	"California Judicial Center Library, Special Collections and Archives"	""	""
 51	California Polytechnic State University - San Luis Obispo	""	onlineItems
-352	California State Archives	""	""
+353	California State Archives	""	""
 1103	California State Library	""	onlineItems
 16	California State Parks	""	""
 22	"California State Polytechnic University, Pomona"	""	""
@@ -82,9 +82,9 @@ count	level1	level2	onlineItems
 72	History San Jose Research Library	""	onlineItems
 6035	Hoover Institution	""	onlineItems
 10	Humboldt State University Library	""	onlineItems
-372	Huntington Library	""	onlineItems
+373	Huntington Library	""	onlineItems
 6	""	Architecture Collections	onlineItems
-259	""	Manuscripts Department	""
+260	""	Manuscripts Department	""
 82	""	Photo Archives	onlineItems
 19	""	Prints and Ephemera	onlineItems
 4	""	Rare Books Department	""
@@ -108,10 +108,10 @@ count	level1	level2	onlineItems
 1	Monterey County Free Libraries	""	onlineItems
 1	Monterey Park Bruggemeyer Library	""	onlineItems
 2	"Museum of Performance and Design, Performing Arts Library"	""	onlineItems
-2	Museum of Photographic Arts	""	""
+2	Museum of Photographic Arts	""	onlineItems
 37	Museum of Ventura County	""	""
 29	NASA Ames Research Center	""	""
-5	"Nevada County Libraries, Doris Foley Library for Historical Research"	""	onlineItems
+6	"Nevada County Libraries, Doris Foley Library for Historical Research"	""	onlineItems
 495	ONE National Gay and Lesbian Archives	""	""
 4	Oakland Museum of California	""	onlineItems
 101	Oakland Public Library	""	onlineItems
@@ -175,7 +175,7 @@ count	level1	level2	onlineItems
 6	Sequoia and Kings Canyon National Parks	""	""
 16	Sherman Library and Gardens	""	""
 2	Sierra Madre Public Library	""	""
-156	Society of California Pioneers	""	onlineItems
+155	Society of California Pioneers	""	onlineItems
 1	Sonoma County Library	""	onlineItems
 27	Sonoma State University Library	""	onlineItems
 13	Sourisseau Academy for State and Local History	""	onlineItems
@@ -245,7 +245,7 @@ count	level1	level2	onlineItems
 305	UC Santa Cruz	""	onlineItems
 253	""	Special Collections and Archives	onlineItems
 52	""	University Archives	""
-3166	UCLA	""	onlineItems
+3167	UCLA	""	onlineItems
 101	""	Chicano Studies Research Center	""
 137	""	Clark (William Andrews) Memorial Library	""
 48	""	Ethnomusicology Archive	""
@@ -253,12 +253,12 @@ count	level1	level2	onlineItems
 9	""	Fowler Museum of Cultural History	onlineItems
 4	""	Grunwald Center for the Graphic Arts	onlineItems
 1	""	"Library Special Collections, Center for Oral History Research"	onlineItems
-1840	""	"Library Special Collections, Charles E. Young Research Library"	onlineItems
+1841	""	"Library Special Collections, Charles E. Young Research Library"	onlineItems
 169	""	"Library Special Collections, History and Special Collections for the Sciences"	""
 361	""	"Library Special Collections, Performing Arts"	onlineItems
 475	""	"Library Special Collections, University Archives"	""
 1	Unemployment Insurance Division Library	""	""
-379	University of Southern California	""	onlineItems
+381	University of Southern California	""	onlineItems
 2	""	Boeckmann Center for Iberian and Latin American Studies	""
 88	""	California Social Welfare Archives	""
 7	""	Cinematic Arts Library	""
@@ -266,7 +266,7 @@ count	level1	level2	onlineItems
 13	""	Feuchtwanger Memorial Library	""
 1	""	Greene and Greene Archives	""
 72	""	Regional History Collection	onlineItems
-148	""	Special Collections	""
+150	""	Special Collections	""
 47	""	University Archives	onlineItems
 305	University of the Pacific	""	onlineItems
 1	Upland Public Library	""	onlineItems
