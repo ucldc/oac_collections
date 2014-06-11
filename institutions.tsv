@@ -1,13 +1,13 @@
 count	level1	level2	onlineItems
-260	Academy of Motion Picture Arts and Sciences	""	onlineItems
-260	""	Margaret Herrick Library	onlineItems
+270	Academy of Motion Picture Arts and Sciences	""	onlineItems
+270	""	Margaret Herrick Library	onlineItems
 27	Agua Caliente Cultural Museum	""	onlineItems
 1	"Alameda County Library, Dublin Library"	""	onlineItems
 1	Albany Library	""	onlineItems
-3	American Jewish University	""	onlineItems
+7	American Jewish University	""	onlineItems
 1	Anaheim Public Library	""	onlineItems
 1	Arcadia Public Library	""	onlineItems
-2	Art Center College of Design Archives	""	""
+6	Art Center College of Design Archives	""	""
 358	Autry National Center	""	onlineItems
 1	Banning Library District	""	onlineItems
 1	Beaumont Library District	""	onlineItems
@@ -16,13 +16,13 @@ count	level1	level2	onlineItems
 12	California Academy of Sciences	""	onlineItems
 2	California College of the Arts Libraries	""	""
 149	California Historical Society	""	onlineItems
-107	California Institute of Technology	""	onlineItems
+110	California Institute of Technology	""	onlineItems
 5	California Institute of the Arts Institute Archive	""	onlineItems
 8	California Jesuit Archives	""	""
 6	"California Judicial Center Library, Special Collections and Archives"	""	""
 51	California Polytechnic State University - San Luis Obispo	""	onlineItems
-353	California State Archives	""	""
-1103	California State Library	""	onlineItems
+356	California State Archives	""	""
+1108	California State Library	""	onlineItems
 16	California State Parks	""	""
 22	"California State Polytechnic University, Pomona"	""	""
 1	""	ENV Archives-Special Collections	""
@@ -31,8 +31,8 @@ count	level1	level2	onlineItems
 147	California State Railroad Museum Library	""	""
 2	California State University Channel Islands	""	onlineItems
 47	"California State University, Chico"	""	onlineItems
-119	"California State University, Dominguez Hills"	""	""
-63	""	Archives and Special Collections Department	""
+121	"California State University, Dominguez Hills"	""	""
+65	""	Archives and Special Collections Department	""
 56	""	California State University Archives	""
 14	"California State University, East Bay University Archives"	""	onlineItems
 34	"California State University, Fresno"	""	""
@@ -43,12 +43,12 @@ count	level1	level2	onlineItems
 44	""	University Archives and Special Collections	onlineItems
 1	"California State University, Los Angeles"	""	onlineItems
 1	"California State University, Monterey Bay Library"	""	onlineItems
-316	"California State University, Northridge. Oviatt Library"	""	""
+333	"California State University, Northridge. Oviatt Library"	""	""
 1	""	International Guitar Research Archives (IGRA)	""
 59	""	Old China Hands Archives	""
-145	""	Special Collections	""
-5	""	University Archives	""
-106	""	Urban Archives	""
+147	""	Special Collections	""
+6	""	University Archives	""
+120	""	Urban Archives	""
 46	"California State University, Sacramento Library"	""	onlineItems
 1	"California State University, Stanislaus. Library"	""	onlineItems
 7	Center for Mennonite Brethren Studies	""	""
@@ -77,21 +77,21 @@ count	level1	level2	onlineItems
 48	""	Institutional Archives	onlineItems
 301	""	Special Collections	onlineItems
 4	Glendale Public Library	""	onlineItems
-119	Graduate Theological Union	""	onlineItems
+120	Graduate Theological Union	""	onlineItems
 1	Historical Sites Society of Arcata	""	""
 72	History San Jose Research Library	""	onlineItems
 6035	Hoover Institution	""	onlineItems
 10	Humboldt State University Library	""	onlineItems
-373	Huntington Library	""	onlineItems
+384	Huntington Library	""	onlineItems
 6	""	Architecture Collections	onlineItems
-260	""	Manuscripts Department	""
-82	""	Photo Archives	onlineItems
+268	""	Manuscripts Department	""
+84	""	Photo Archives	onlineItems
 19	""	Prints and Ephemera	onlineItems
-4	""	Rare Books Department	""
+5	""	Rare Books Department	""
 1	Inglewood Public Library	""	onlineItems
 1	Intel Museum	""	onlineItems
 1	Japanese American Historical Society of San Diego	""	""
-32	Japanese American National Museum	""	onlineItems
+33	Japanese American National Museum	""	onlineItems
 1	Kern County Library	""	onlineItems
 1	La Habra Old Settlers Historical Society	""	onlineItems
 1	Liberty High School Library	""	onlineItems
@@ -100,7 +100,7 @@ count	level1	level2	onlineItems
 9	"Los Angeles County Museum of Art, Balch Art Research Library"	""	""
 5	Los Angeles Maritime Museum	""	onlineItems
 1	Los Angeles Philharmonic Archives	""	onlineItems
-88	"Loyola Marymount University, Department of Archives and Special Collections, William H. Hannon Library"	""	onlineItems
+90	"Loyola Marymount University, Department of Archives and Special Collections, William H. Hannon Library"	""	onlineItems
 1	Marin County Free Library	""	onlineItems
 1	Mill Valley Public Library	""	onlineItems
 4	Mills College	""	onlineItems
@@ -108,11 +108,11 @@ count	level1	level2	onlineItems
 1	Monterey County Free Libraries	""	onlineItems
 1	Monterey Park Bruggemeyer Library	""	onlineItems
 2	"Museum of Performance and Design, Performing Arts Library"	""	onlineItems
-2	Museum of Photographic Arts	""	onlineItems
+3	Museum of Photographic Arts	""	onlineItems
 37	Museum of Ventura County	""	""
 29	NASA Ames Research Center	""	""
 6	"Nevada County Libraries, Doris Foley Library for Historical Research"	""	onlineItems
-495	ONE National Gay and Lesbian Archives	""	""
+498	ONE National Gay and Lesbian Archives	""	""
 4	Oakland Museum of California	""	onlineItems
 101	Oakland Public Library	""	onlineItems
 100	""	African American Museum and Library at Oakland	""
@@ -126,7 +126,7 @@ count	level1	level2	onlineItems
 1	Palos Verdes Library District	""	onlineItems
 1	Pasadena Digital History Collaboration	""	onlineItems
 24	Pasadena Museum of History	""	""
-121	Pepperdine University. Special Collections and University Archives	""	""
+122	Pepperdine University. Special Collections and University Archives	""	""
 5	Perris Valley Museum Historical Archives	""	""
 1	Placentia Library District	""	onlineItems
 1	Pomona Public Library	""	onlineItems
@@ -138,27 +138,27 @@ count	level1	level2	onlineItems
 1	Richmond Public Library	""	onlineItems
 2	Riverside Public Library	""	onlineItems
 12	Roseville Public Library	""	""
-12	Sacramento County Office of Education	""	""
-18	Sacramento Public Library	""	""
+13	Sacramento County Office of Education	""	""
+19	Sacramento Public Library	""	""
 2	San Bernardino Public Library	""	onlineItems
 1	San Bruno Public Library	""	onlineItems
 24	San Diego Air and Space Museum Library and Archives	""	""
 145	San Diego History Center (formerly San Diego Historical Society)	""	onlineItems
 4	San Diego Museum of Man	""	""
-353	San Diego State University	""	""
-353	""	Special Collections and University Archives	""
+356	San Diego State University	""	""
+356	""	Special Collections and University Archives	""
 475	San Francisco Maritime National Historical Park	""	onlineItems
-133	San Francisco Public Library	""	onlineItems
+134	San Francisco Public Library	""	onlineItems
 47	""	James C. Hormel Gay and Lesbian Center	onlineItems
-86	""	San Francisco History Center	onlineItems
-99	San Francisco State University	""	onlineItems
+87	""	San Francisco History Center	onlineItems
+100	San Francisco State University	""	onlineItems
 1	""	J. Paul Leonard Library	""
-98	""	Labor Archives and Research Center	onlineItems
+99	""	Labor Archives and Research Center	onlineItems
 55	San Joaquin County Historical Society and Museum	""	onlineItems
 1	San Joaquin Valley Library System	""	onlineItems
 9	San Jose Public Library. California Room	""	onlineItems
-178	San José State University	""	onlineItems
-177	""	Special Collections and Archives	onlineItems
+179	San José State University	""	onlineItems
+178	""	Special Collections and Archives	onlineItems
 1	"San Mateo County Library, Brisbane Library"	""	onlineItems
 1	San Mateo Public Library	""	onlineItems
 1	Santa Ana Public Library	""	onlineItems
@@ -166,14 +166,14 @@ count	level1	level2	onlineItems
 25	Santa Barbara Trust for Historic Preservation. Presidio Research Center	""	""
 1	Santa Clara City Library	""	onlineItems
 44	Santa Clara County Archives	""	""
-26	Santa Clara University	""	onlineItems
+27	Santa Clara University	""	onlineItems
 1	"Santa Cruz Public Libraries, Scotts Valley Branch"	""	onlineItems
 1	Santa Fe Springs City Library	""	onlineItems
 3	Santa Monica Public Library	""	onlineItems
 1	"Scripps College, Ruth Chandler Williamson Gallery"	""	""
 602	"Seaver Center for Western History Research, Natural History Museum of Los Angeles County"	""	""
 6	Sequoia and Kings Canyon National Parks	""	""
-16	Sherman Library and Gardens	""	""
+17	Sherman Library and Gardens	""	""
 2	Sierra Madre Public Library	""	""
 155	Society of California Pioneers	""	onlineItems
 1	Sonoma County Library	""	onlineItems
@@ -182,17 +182,17 @@ count	level1	level2	onlineItems
 1	South Pasadena Public Library	""	onlineItems
 1	South San Francisco Public Library	""	onlineItems
 85	Southern California Library for Social Studies and Research	""	onlineItems
-2936	Stanford University	""	onlineItems
-736	""	Manuscripts Division	onlineItems
+2939	Stanford University	""	onlineItems
+737	""	Manuscripts Division	onlineItems
 8	""	Rare Books Division	""
 100	""	Stanford Archive of Recorded Sound	onlineItems
 5	""	Stanford Music Library	onlineItems
-2086	""	University Archives	onlineItems
+2088	""	University Archives	onlineItems
 1	Sutter County Library	""	onlineItems
 46	Tauber Holocaust Library	""	""
 2	Thousand Oaks Library	""	onlineItems
 3	Tulare County Library	""	onlineItems
-13773	UC Berkeley	""	onlineItems
+13775	UC Berkeley	""	onlineItems
 1	""	Art History/Classics Library	onlineItems
 12478	""	Bancroft Library	onlineItems
 15	""	Berkeley Art Museum/Pacific Film Archive	onlineItems
@@ -206,19 +206,19 @@ count	level1	level2	onlineItems
 24	""	Law Library	""
 1	""	Media Resources Center	""
 1	""	Museum of Paleontology	""
-30	""	Museum of Vertebrate Zoology	onlineItems
+32	""	Museum of Vertebrate Zoology	onlineItems
 180	""	Music Library	""
 53	""	South/Southeast Asia Library	""
 1	""	The Magnes Collection of Jewish Art and Life	""
 1	""	The Robbins Collection	""
 102	""	University Archives	onlineItems
-733	UC Davis	""	onlineItems
-638	""	Special Collections	onlineItems
+794	UC Davis	""	onlineItems
+699	""	Special Collections	onlineItems
 95	""	University Archives	onlineItems
-617	UC Irvine	""	onlineItems
+618	UC Irvine	""	onlineItems
 25	""	Critical Theory Archive	onlineItems
 46	""	Southeast Asian Archive	onlineItems
-363	""	Special Collections	onlineItems
+364	""	Special Collections	onlineItems
 183	""	University Archives	onlineItems
 4	UC Merced	""	onlineItems
 3	""	Library and Special Collections	onlineItems
@@ -228,8 +228,8 @@ count	level1	level2	onlineItems
 171	""	Special Collections and Archives	onlineItems
 31	""	University Archives	""
 119	""	Water Resources Collections and Archives	onlineItems
-859	UC San Diego	""	onlineItems
-499	""	Mandeville Special Collections Library	onlineItems
+860	UC San Diego	""	onlineItems
+500	""	Mandeville Special Collections Library	onlineItems
 1	""	Research Data Curation Program	onlineItems
 325	""	Scripps Institution of Oceanography Archives	""
 34	""	University Archives	onlineItems
@@ -238,14 +238,14 @@ count	level1	level2	onlineItems
 166	""	Special Collections	onlineItems
 24	""	Tobacco Control Archives	onlineItems
 27	""	University Archives	""
-3980	UC Santa Barbara	""	onlineItems
+3995	UC Santa Barbara	""	onlineItems
 227	""	"Architecture and Design Collection, Art, Design and Architecture Museum"	""
 16	""	Cheadle Center for Biodiversity and Ecological Restoration	onlineItems
-3736	""	Special Collections	onlineItems
-305	UC Santa Cruz	""	onlineItems
-253	""	Special Collections and Archives	onlineItems
-52	""	University Archives	""
-3167	UCLA	""	onlineItems
+3751	""	Special Collections	onlineItems
+309	UC Santa Cruz	""	onlineItems
+256	""	Special Collections and Archives	onlineItems
+53	""	University Archives	""
+3180	UCLA	""	onlineItems
 101	""	Chicano Studies Research Center	""
 137	""	Clark (William Andrews) Memorial Library	""
 48	""	Ethnomusicology Archive	""
@@ -253,12 +253,12 @@ count	level1	level2	onlineItems
 9	""	Fowler Museum of Cultural History	onlineItems
 4	""	Grunwald Center for the Graphic Arts	onlineItems
 1	""	"Library Special Collections, Center for Oral History Research"	onlineItems
-1841	""	"Library Special Collections, Charles E. Young Research Library"	onlineItems
-169	""	"Library Special Collections, History and Special Collections for the Sciences"	""
+1842	""	"Library Special Collections, Charles E. Young Research Library"	onlineItems
+171	""	"Library Special Collections, History and Special Collections for the Sciences"	""
 361	""	"Library Special Collections, Performing Arts"	onlineItems
-475	""	"Library Special Collections, University Archives"	""
+485	""	"Library Special Collections, University Archives"	""
 1	Unemployment Insurance Division Library	""	""
-381	University of Southern California	""	onlineItems
+392	University of Southern California	""	onlineItems
 2	""	Boeckmann Center for Iberian and Latin American Studies	""
 88	""	California Social Welfare Archives	""
 7	""	Cinematic Arts Library	""
@@ -266,16 +266,16 @@ count	level1	level2	onlineItems
 13	""	Feuchtwanger Memorial Library	""
 1	""	Greene and Greene Archives	""
 72	""	Regional History Collection	onlineItems
-150	""	Special Collections	""
-47	""	University Archives	onlineItems
-305	University of the Pacific	""	onlineItems
+159	""	Special Collections	""
+49	""	University Archives	onlineItems
+304	University of the Pacific	""	onlineItems
 1	Upland Public Library	""	onlineItems
 4	Visual Communications Archives and Media Resource Library	""	""
 2	Wardman Library-Whittier College	""	""
 32	West Valley College Library	""	onlineItems
 1	Whittier Public Library	""	onlineItems
-5	Writers Guild Foundation Archive	""	""
-19	Yolo County Archives	""	""
+6	Writers Guild Foundation Archive	""	""
+36	Yolo County Archives	""	""
 1	Yorba Linda Public Library	""	onlineItems
 1	Yuba County Library	""	onlineItems
 
