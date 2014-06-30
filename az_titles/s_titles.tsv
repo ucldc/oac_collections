@@ -200,6 +200,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt0r29r85r	San Francisco County Medi
 http://www.oac.cdlib.org/findaid/ark:/13030/c8833r08	San Francisco Department of Public Health AIDS Office Records	ark:/13030/tf809nb9vj	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8k64m9v	San Francisco Department of Public Health Records	ark:/13030/tf809nb9vj	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8vt1v99	San Francisco Department of Public Works Proposed San Francisco-Oakland Bay Bridges Records	ark:/13030/tf809nb9vj	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8tt4t5x	San Francisco District Attorney's Office	ark:/13030/tf809nb9vj	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8qz2brf	"San Francisco Earthquake &amp; Fire Lantern Slides, 1906"	ark:/13030/kt4c60381d	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf4b69n76q	San Francisco Earthquake and Fire - Lantern Slides	ark:/13030/tf7r29p8s0	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt196nd8hx	San Francisco Earthquake and Fire Collection	ark:/13030/tf458010c5	false
@@ -284,6 +285,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/tf4s20041d	San Joaquin County (Calif
 http://www.oac.cdlib.org/findaid/ark:/13030/tf558003z8	San Joaquin County (Calif.) Schools Collection	ark:/13030/tf1f59p2n6	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf7t1nb603	San Joaquin County (Calif.) Sheriff's Records	ark:/13030/tf609nb7wg	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8cj8ftm	San Joaquin County (Calif.) Swampland and Reclamation District Maps and Drawings	ark:/13030/tf1f59p2n6	true
+http://www.oac.cdlib.org/findaid/ark:/13030/c8fx7cp1	San Joaquin County Historical Society and Museum Product Label Collection	ark:/13030/tf1f59p2n6	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf2199n8c6	"San Joaquin Delta Land Reclamation Photographs, ca. 1904-1907"	ark:/13030/tf7r29p8s0	true
 http://www.oac.cdlib.org/findaid/ark:/13030/c84f1rb6	San Joaquin General Hospital School of Nursing Collection	ark:/13030/tf1f59p2n6	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf1000018z	"San Joaquin Valley College (Woodbridge, Calif.) Collection"	ark:/13030/tf1f59p2n6	false
@@ -424,9 +426,12 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt8m3nf8bx	Santa Barbara African Ame
 http://www.oac.cdlib.org/findaid/ark:/13030/kt1t1nf0qw	Santa Barbara Afro-American oral history project collection	ark:/13030/kt2j49q7f8	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt896nd0c5	Santa Barbara and Suburban Railway Photographs	ark:/13030/kt2j49q7f8	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt1n39n501	Santa Barbara Area Newspapers	ark:/13030/kt2j49q7f8	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c85d8v3x	Santa Barbara California Photo Album	ark:/13030/kt2j49q7f8	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8ww7kxb	Santa Barbara California Photographs: California Floral Festival Parade	ark:/13030/kt2j49q7f8	false
 http://www.oac.cdlib.org/findaid/ark:/13030/ft7779n9rm	Santa Barbara Citizens Commission on Civil Disorders Collection	ark:/13030/kt2j49q7f8	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6199s331	"Santa Barbara College of the University of California, Department of Women's Physical Education Scrapbooks"	ark:/13030/kt2j49q7f8	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8930shk	Santa Barbara Community Arts Association records	ark:/13030/kt8779s1dn	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c81n83ck	Santa Barbara County Area Survey Maps Collection	ark:/13030/kt2j49q7f8	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c88w3gj2	Santa Barbara Earthquake Photographs	ark:/13030/kt2j49q7f8	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8xg9pk1	Santa Barbara Gay and Lesbian Resource Center Records	ark:/13030/kt2n39q9dc	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7h4nf4t8	Santa Barbara Oil Spill Scrapbook	ark:/13030/kt2j49q7f8	false
@@ -510,7 +515,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt7g503873	Saunders (Russell M.) fil
 http://www.oac.cdlib.org/findaid/ark:/13030/c8m32wd1	Sauter and Lockard drawings of City Hall	ark:/13030/kt8779s1dn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf3d5n99mj	Sautter (Abraham E.) Papers	ark:/13030/tf5r29p4tz	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt9p3039vt	Savage (Charles) Photograph Album	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt3j49s0rr	Savage (Florence Grace) photographs	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt3j49s0rr	Savage (Florence Grace) photographs	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/tf4c6005xq	Savage (George W.) Papers	ark:/13030/tf129008pn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8g50410v	"Savage (Harry King), ""My Education"" Typescript"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf838nb3pq	Savage (Hiram N.) Papers	ark:/13030/tf009nb42r	false
@@ -560,6 +565,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt4m3nf256	Schacht (Hjalmar Horace G
 http://www.oac.cdlib.org/findaid/ark:/13030/c8nz86xp	"Schad (Jasper) Photographs of California Mission Restoration, 1948-1954"	ark:/13030/tf6t1nb9mj	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6s20280p	Schaechter (Kurt Werner) Collection	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt809nd1sw	Schaefer (George) Papers	ark:/13030/tf129008pn	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c83x88wr	Schaefer (Norman) Papers	ark:/13030/tf1489p250	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7w1040t3	Schaeffer ( F.J.) bills of lading	ark:/13030/tf9d5nc0sj	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8w103782	Schaeffer Galleries Records	ark:/13030/kt98703819	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf5b69n83z	Schaeffer (Paul B.) Scrapbooks	ark:/13030/tf4000119v	false
@@ -595,6 +601,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/c8125r3v	Scherbatoff (George S.) pho
 http://www.oac.cdlib.org/findaid/ark:/13030/tf72900648	Scherer (Charles R.) Papers	ark:/13030/tf009nb42r	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7199r86v	Schetelig (Oberleutnant) diaries	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3779r6hm	Schetter (Hans Otto) diary	ark:/13030/tf4m3nb8sq	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8w37zj1	Scheuer (Philip K.) papers	ark:/13030/c8ff3t03	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8jq11rc	Scheurich (Victor) Collection	ark:/13030/kt4c60381d	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8xp770b	Scheuring (Ann Foley) Papers	ark:/13030/tf1489p250	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf0f59n413	Schevenels (Walther) Papers	ark:/13030/tf4m3nb8sq	false
@@ -672,6 +679,8 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt438nf1p6	School Integration Task F
 http://www.oac.cdlib.org/findaid/ark:/13030/c8sn07x6	"School of Biological Sciences Records (University of California, Irvine)"	ark:/13030/kt3v19n8bk	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt4t1nb0sh	"School of Biological Sciences Research Article Reprints (University of California, Irvine)"	ark:/13030/kt3v19n8bk	false
 http://www.oac.cdlib.org/findaid/ark:/13030/hb4n39p2dt	School of Business Administration Records	ark:/13030/tf6x0nb9j5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8vm4fgn	"School of Education, Academic Departments and Schools, University Archives (Institutional Records)"	ark:/13030/kt8j49s18j	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8jq137g	"School of Fine Arts, Academic Departments and Schools, University Archives (Institutional Records)"	ark:/13030/kt8j49s18j	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7r29r052	"School of Humanities Meeting Minutes (University of California, Irvine)"	ark:/13030/kt3v19n8bk	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2d5nd1j1	"School of Humanities Publications (University of California, Irvine)"	ark:/13030/kt3v19n8bk	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf8t1nb3tc	School of Law Papers	ark:/13030/tf6x0nb9j5	false
@@ -791,7 +800,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/tf3q2nb09z	Scott (William A.) Papers
 http://www.oac.cdlib.org/findaid/ark:/13030/c8445jxr	Scotti (Don) Papers	ark:/13030/kt2n39q9dc	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c85b016m	Scotts Valley Historical Photos	ark:/13030/kt8c60413r	true
 http://www.oac.cdlib.org/findaid/ark:/13030/c8fx77vm	Scoville (Ogden) Collection	ark:/13030/kt4c60381d	false
-http://www.oac.cdlib.org/findaid/ark:/13030/tf396n99gt	Scowcroft (Richard) Papers	ark:/13030/tf458010c5	true
+http://www.oac.cdlib.org/findaid/ark:/13030/tf396n99gt	Scowcroft (Richard) Papers	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt1b69q2gr	Scrapbook - Advertising Literature	ark:/13030/kt2j49q7f8	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt796nf40j	Scrapbook of letters to George E. Crothers	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8z60ms1	"Scrapbook of newspaper clippings by Charles F. Lummis and others, circa 1885"	ark:/13030/kt8489r6nk	false
@@ -846,6 +855,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/c84x58kw	Seaver College Faculty Advi
 http://www.oac.cdlib.org/findaid/ark:/13030/kt996nf8md	Seaver (Paul S.) Papers	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt338nd9fp	Sebald (Edith de Becker) typescript	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6199r9kq	Sebald (William Joseph) diary extracts	ark:/13030/tf4m3nb8sq	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8vt1vbr	Sebesta (Ed) Papers	ark:/13030/kt2n39q9dc	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt1199r4d5	Secomski (Kazimierz) miscellaneous papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8n39s3mb	Second District of the California State PTA (San Francisco PTA) Records	ark:/13030/tf809nb9vj	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt4z09r8sm	Second report on Hungary under German occupation mimeograph	ark:/13030/tf4m3nb8sq	false
@@ -866,6 +876,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt6n39q421	Sedgwick (John) Papers	ar
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6n39p6vf	Sedgwick (Stephen J.) Papers	ark:/13030/tf129008pn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt929006tk	Sedletzky (Marcel) Archive	ark:/13030/tf5h4nb7td	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt487034jk	Sedov (Sergei L'vovich) letters	ark:/13030/tf4m3nb8sq	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8hq4250	See (Alonzo B.) letterbook	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt696nb9rp	See (Carolyn) Papers	ark:/13030/tf129008pn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3q2nd83z	See (Elizabeth M.) photograph collection	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt1w10244x	See (Lisa) Papers	ark:/13030/tf129008pn	false
@@ -1061,6 +1072,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt6n39r94x	Shattan (Joseph) papers	a
 http://www.oac.cdlib.org/findaid/ark:/13030/tf6n39n95r	Shatto (Charles) Collection	ark:/13030/tf4000119v	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8t72km7	Shattuck (Jennie H.) Album	ark:/13030/kt8s2020gp	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8t15599	Shavelson (Melville) papers	ark:/13030/c8ff3t03	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8m90bw0	Shavelson (Richard J.) Papers	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt800020xq	Shaver (Ruth M.) Collection of Material about the Kabuki Theater	ark:/13030/tf129008pn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8k4039qs	Shaw (Captain Loring N.) photographs	ark:/13030/tf9d5nc0sj	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt538nf414	Shaw (Captain Loring N.) reminiscence and newspapers	ark:/13030/tf9d5nc0sj	false
@@ -1136,6 +1148,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/tf9t1nb4g0	Sheppard (Eli T.) Papers	
 http://www.oac.cdlib.org/findaid/ark:/13030/c8dj5f1g	Sher (Byron D.) Papers	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6x0nf2tm	Sherard (Robert Harborough) Collection	ark:/13030/tf9n39p92k	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf1d5n98jd	Shere (Charles) Collection	ark:/13030/tf4000119v	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c84b33jr	Shere (Michael) Papers	ark:/13030/kt2n39q9dc	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2j49p9cr	Sherer (Lorraine M.) Papers	ark:/13030/tf129008pn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8p2703d	"Sheridan (E. M.) collection, circa 1800s-1900s"	ark:/13030/kt6n39s11z	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8st7qt1	"Sheridan (Sol N.) collecton, circa 1800s-1900s"	ark:/13030/kt6n39s11z	false
@@ -1143,6 +1156,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/c8rf5vtt	Sheridan (USAT) and Warren 
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0779r483	Sherley (Swagar) interview summary	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf0j49n4pk	Sherman (Edwin A.) Papers	ark:/13030/tf7r29p8s0	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2g502653	Sherman (F. Barreda) postcard collection	ark:/13030/tf9d5nc0sj	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c82f7qpx	Sherman (George) papers	ark:/13030/c8ff3t03	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt929037ks	Sherman (Murray P.) papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3779n8dp	Sherman (William T.) Letter	ark:/13030/kt2j49q7f8	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2q2nf299	Sherry (Ralph Harrison) Papers	ark:/13030/tf458010c5	false
@@ -1515,6 +1529,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/tf7h4nb4tk	Smith (Albert E.) Papers	
 http://www.oac.cdlib.org/findaid/ark:/13030/tf5s200778	Smith (Alex) Papers	ark:/13030/tf5r29p653	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6x0nf58s	Smith and Williams records	ark:/13030/kt8779s1dn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c869746g	Smith (Ann C.) collection of letters from Juanita Harrison to Alice M. Foster	ark:/13030/tf129008pn	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8h41tnc	"Smith, Asa Hartung. Scrapbooks and photographic materials."	ark:/13030/tf1d5nb4kf	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2779r5zj	Smith (Barbara J.) Family and Student Films	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8st7rjv	"Smith (Barbara T.) series and related material, 1965-1967"	ark:/13030/kt98703819	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt058000hw	Smith (Ben) Alaska Yukon Gold Rush Collection	ark:/13030/kt2j49q7f8	false
@@ -1730,6 +1745,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/c8pr7tq9	Sonyi (Hugo) papers	ark:/13
 http://www.oac.cdlib.org/findaid/ark:/13030/tf3g5002qh	"Soong, T. V. (Tzu-wen) Papers"	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0x0n97vw	Soper Family Papers	ark:/13030/kt2j49q7f8	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6p3040pd	Sorbier (Louise) Papers	ark:/13030/tf7v19p5mm	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8xs5xmz	SoRelle (Valerie) collection	ark:/13030/c8ff3t03	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c84q7t0k	Sorensen (A.H.) logbook and pamphlets	ark:/13030/tf9d5nc0sj	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8d7994k	Sorensen (Captain A.H.) papers	ark:/13030/tf9d5nc0sj	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2r29r6g2	Sorensen (Carsten Lehmann) collection	ark:/13030/tf4m3nb8sq	false
@@ -1859,6 +1875,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/c8gf0rz0	"Spakler, Herman W. Collect
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3r29r955	Spalding (Hobart A.) collection on Latin America	ark:/13030/tf6t1nc14w	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7p3035h3	Spalding (Merrill Ten Broeck) papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8j38qzs	Spangenberg (Karl R.) papers	ark:/13030/tf4m3nb8sq	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8xw4n24	Spangler (Larry G.) papers	ark:/13030/c8ff3t03	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf9w10072k	Spanish and Mexican Materials	ark:/13030/tf5r29p4sf	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c89s1s1k	Spanish Archives of New Mexico Translations	ark:/13030/kt8489r6nk	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt687026q9	Spanish Civil War collection	ark:/13030/tf129008pn	false
@@ -1976,7 +1993,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt7q2nf7dt	Square and Circle Club Re
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6f59r8wh	Squaring the Circle Collection	ark:/13030/tf1489p250	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8vt1tv2	Squat Theatre. Records.	ark:/13030/tf1489p250	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt4779n8kk	"Squire (John C., Sir) Papers"	ark:/13030/tf129008pn	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt7m3nf4vf	Squire (Ruth Hortense) Photographs of Stanford University	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt7m3nf4vf	Squire (Ruth Hortense) Photographs of Stanford University	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0c60316c	Squires (James Duane) typescript	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8zc83dn	"Sr. Claire, SMMI: Biblical Posters"	ark:/13030/c8vq312z	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8jw8fmx	SRI ARC/NIC records	ark:/13030/kt5q2nd3pz	false
@@ -2073,7 +2090,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt8199s434	Stanford Campus Archaeolo
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2m3nf23j	Stanford Campus Recreation Association Records	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8348j48	Stanford Cardinal Broadcast Nework Videorecordings	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nf3db	Stanford Centennial Cartoons	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt009nd9h4	Stanford Centennial Photographs	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt009nd9h4	Stanford Centennial Photographs	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt4t1nf2xw	Stanford Centennial Photography Project Negatives	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7t1nf5gj	Stanford Centennial Roundtables [videorecording]	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2x0nd9qr	Stanford Centennial slides	ark:/13030/tf458010c5	false
@@ -2161,7 +2178,6 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt1f59r4w1	Stanford Music Broadcast 
 http://www.oac.cdlib.org/findaid/ark:/13030/c86q1vzw	Stanford New York City Proposal	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt738nf7p1	Stanford NIRT Project Records	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8h4nf39b	Stanford Nisei alumni newsletter issues	ark:/13030/tf4m3nb8sq	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt900041bm	Stanford Notebooks	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8r49sw9	Stanford Nurse Alumnae Records	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0g50346g	Stanford Open Space Alliance Records	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3c603546	Stanford Oral History Project Interviews	ark:/13030/tf458010c5	true
@@ -2201,12 +2217,12 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt929040jb	Stanford Student Ephemera
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7p3038fh	Stanford Student Housing Collection	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf567nb0z4	Stanford Student Letters and Memoirs Collection	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2z09r8th	Stanford Student Life Photograph Collection	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt1h4nf1pw	Stanford Student Life Photographs	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt1h4nf1pw	Stanford Student Life Photographs	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt1779r759	Stanford Student Memorabilia	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7d5nf58t	Stanford Student Photograph Album	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8489s0bg	Stanford Student Photograph Album	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0489r6dg	Stanford Student Photograph Album	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt8t1nf6rg	Stanford Student Photograph Album	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt8t1nf6rg	Stanford Student Photograph Album	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt958038s1	Stanford Student Photograph Album	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7z09s4s2	Stanford Student Photograph Album	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt738nf6s3	Stanford Student Photograph Album	ark:/13030/tf458010c5	false
@@ -2287,13 +2303,13 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt2s20362z	"Stanford University, Car
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6q2nf62v	"Stanford University, Carrier Current Broadcasting Committee, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt787037t3	"Stanford University, Centennial Office, Records"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt4h4nf41f	"Stanford University, Centennial Spots [videorecording]"	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt5t1nf3t4	"Stanford University, Center for Advanced Study in the Behavioral Sciences, Photographs"	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt5t1nf3t4	"Stanford University, Center for Advanced Study in the Behavioral Sciences, Photographs"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7z09s4tk	"Stanford University, Center for Advanced Study in the Behavioral Sciences, Photographs"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/c8rx9dj6	"Stanford University, Center for Computer Research in Music and Acoustics, Records"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8z09s2bp	"Stanford University, Center for East Asian Studies, Student Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8j38tbz	"Stanford University, Center for Integrated Systems, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt658035j1	Stanford University. Center for International Security and Arms Control information packets	ark:/13030/tf4m3nb8sq	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt409nf3v3	"Stanford University, Center for International Security and Cooperation, Records"	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt409nf3v3	"Stanford University, Center for International Security and Cooperation, Records"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt738nf6jg	"Stanford University, Center for Latin American Studies, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt9g5041x4	"Stanford University, Center for Research on Women, Female Sexuality Project Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3b69s07p	"Stanford University, Center for Russian, East European and Eurasian Studies, Records"	ark:/13030/tf458010c5	false
@@ -2326,7 +2342,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt509nf4rb	"Stanford University, Com
 http://www.oac.cdlib.org/findaid/ark:/13030/kt4g5036nd	"Stanford University, Committee on Land and Building Development, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt70003928	"Stanford University, Committee on Undergraduate Admissions and Financial Aid, Subcommittee on Female Admissions, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt9r29s59m	"Stanford University, Committee on Vocational Guidance, Records"	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt938nf7bg	Stanford University Construction Photographs	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt938nf7bg	Stanford University Construction Photographs	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt209nf2kv	"Stanford University, Controller's Office, Cost and Management Analysis Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8j49s2m6	"Stanford University, Controller's Office, Encina and Roble Dormitories Cashbooks"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3w1037c2	"Stanford University, Controller's Office, Financial Records"	ark:/13030/tf458010c5	false
@@ -2364,7 +2380,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt2779r6gs	"Stanford University, Dep
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6d5nf5f3	"Stanford University, Department of English, Honors Theses"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt1j49r6bc	"Stanford University, Department of Geology, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7p3038qn	"Stanford University, Department of Geology, Records"	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt5199s11q	"Stanford University, Department of History, Faculty Photographs"	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt5199s11q	"Stanford University, Department of History, Faculty Photographs"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8199s3d9	"Stanford University, Department of History, Honors Theses"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt196nd9kf	"Stanford University, Department of History, Independent Study Program, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf4m3nb0j7	"Stanford University, Department of History, Records"	ark:/13030/tf458010c5	false
@@ -2396,7 +2412,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/c8wq02sz	"Stanford University, Dept.
 http://www.oac.cdlib.org/findaid/ark:/13030/c8rx9b3j	"Stanford University, Dept. of Chemistry, honors theses"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8df6pzt	"Stanford University, Dept. of Classics, Honors Theses"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c82806bv	"Stanford University, Dept. of Comparative Literature, Honors Theses"	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt5r29s0q5	"Stanford University, Dept. of Drama, Production Photographs"	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt5r29s0q5	"Stanford University, Dept. of Drama, Production Photographs"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/c84f1ppv	"Stanford University, Dept. of French &amp; Italian, honors theses"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8pk0f4r	"Stanford University, Dept. of Geological and Environmental Sciences, honors theses"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8nk3d0c	"Stanford University, Dept. of German Studies, Honors Theses"	ark:/13030/tf458010c5	false
@@ -2468,7 +2484,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt8t1nf687	"Stanford University, Int
 http://www.oac.cdlib.org/findaid/ark:/13030/kt4v19s015	"Stanford University, J. Henry Meyer Memorial Library, Photograph Album"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8r78gfd	"Stanford University, J. Henry Meyer Memorial Library, Records"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt1t1nf0b6	"Stanford University, Lagunita Court, Guest Book"	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/c8ks6t1c	"Stanford University, Land, Buildings &amp; Real Estate, Dept. of Project Management, Construction Photographs"	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8ks6t1c	"Stanford University, Land, Buildings &amp; Real Estate, Dept. of Project Management, Construction Photographs"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/c87m09mp	"Stanford University, Language Universals Project, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0s2032gm	"Stanford University, Law School, Munger Dormitory Collection"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8tx3h5v	"Stanford University, Leland Scholars Program, materials"	ark:/13030/tf458010c5	false
@@ -2480,7 +2496,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/c8p26xhk	"Stanford University Librar
 http://www.oac.cdlib.org/findaid/ark:/13030/c8jq12g6	"Stanford University, Libraries, Construction Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7199s1b0	"Stanford University Libraries, Department of Special Collections and University Archives, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0x0nf20b	"Stanford University, Libraries, Diversity Committee, Records"	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt309nf3qq	"Stanford University, Libraries, Earthquake Damage Slides"	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt309nf3qq	"Stanford University, Libraries, Earthquake Damage Slides"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt187034zv	"Stanford University, Libraries, Foreign Language and Area Collections, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt200032zs	"Stanford University Libraries, HighWire Press, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0779r6r9	"Stanford University, Libraries, History of the Book Class Records"	ark:/13030/tf458010c5	false
@@ -2498,7 +2514,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt5489s1kn	Stanford University Map C
 http://www.oac.cdlib.org/findaid/ark:/13030/kt567nf1t7	"Stanford University, Maples Pavilion, Photograph Album and Ephemera"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8639p20	"Stanford University, Mathematical and Computer Science Program, honors theses"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8zk5fdq	"Stanford University, Medical Center, Audiorecordings"	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt1h4nf1nc	"Stanford University, Medical Center, Construction slides"	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt1h4nf1nc	"Stanford University, Medical Center, Construction slides"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt1f59r60j	"Stanford University, Medical Center, Facilities Renewal and Replacement Project Collection"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2199r717	"Stanford University Medical Center, Health Care Education Network, videorecordings"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt4g5037b7	"Stanford University, Medical Division, Annual Statements"	ark:/13030/tf458010c5	false
@@ -2516,9 +2532,10 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt8n39s2dr	"Stanford University, New
 http://www.oac.cdlib.org/findaid/ark:/13030/c85h7dnc	"Stanford University, News Service, Director's Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt4p303770	Stanford University Newspaper Clippings	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8ng4r70	"Stanford University, Ninth Presidential Search Committee, Records"	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt2b69r8fw	Stanford University Objects Collection	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt2b69r8fw	Stanford University Objects Collection	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3v19s13c	"Stanford University, Office for Religious Life, Records"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/c8st7rb5	"Stanford University, Office of Chicano Affairs, Records"	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8542qv3	"Stanford University, Office of Development, Photographs"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt196nd9fc	"Stanford University, Office of Development, Records"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/c8dr2xjx	"Stanford University, Office of General Studies, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c84b324z	"Stanford University, Office of Judicial Affairs, Records"	ark:/13030/tf458010c5	false
@@ -2538,37 +2555,39 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt5g5036hn	"Stanford University, Off
 http://www.oac.cdlib.org/findaid/ark:/13030/kt9199s4qr	"Stanford University, Office of the Medical Adviser of Women, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt800038g9	"Stanford University, Office of the President, administrative reorganization"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt187034q7	"Stanford University, Office of the Registrar, Records"	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8gh9m6k	"Stanford University, Office of the Vice Provost and Dean of Research, Graduate Policy Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt9n39s2b1	"Stanford University, Office of Undergraduate Admissions, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8qv3jw2	"Stanford University, Office of Vice President and General Counsel, Records"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt9g504215	"Stanford University, Office of Vice President for Business and Finance, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt9x0nf644	"Stanford University, Operations and Maintenance, Maps and Records, Architectural Drawings"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt38703463	"Stanford University, Palm Drive Reconstruction Project Working Group, Records"	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt1489r86n	"Stanford University, Paul G. Allen Center for Integrated Systems, Dedication Photographs"	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt1489r86n	"Stanford University, Paul G. Allen Center for Integrated Systems, Dedication Photographs"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/c8057dbb	"Stanford University, Pearce-Mitchell Project, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt92904023	Stanford University Photograph Album	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt700038dz	Stanford University [photograph album]	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8wq05g5	Stanford University Photograph Album	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8f59s2n2	Stanford University Photograph Album	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8c6039qg	Stanford University Photograph Album	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt5000400q	Stanford University Photographs	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt5000400q	Stanford University Photographs	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/c8zp481c	Stanford University Photographs	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3z09s042	Stanford University Photographs	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt6m3nf5kg	Stanford University Photographs	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt4w1036rk	Stanford University Photographs	ark:/13030/tf458010c5	true
-http://www.oac.cdlib.org/findaid/ark:/13030/kt8t1nf6s0	Stanford University Photographs	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt8t1nf6s0	Stanford University Photographs	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt529036v6	Stanford University Photographs	ark:/13030/tf458010c5	true
-http://www.oac.cdlib.org/findaid/ark:/13030/kt967nf5xz	Stanford University Photographs and Memorabilia	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt967nf5xz	Stanford University Photographs and Memorabilia	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0v19r7rq	"Stanford University, Physical Sciences Program, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6779s0n5	"Stanford University, Planning Office, ""A Comprehensive Analysis of Stanford University Student Housing"" Charts"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0q2nf1f8	"Stanford University, Planning Office, Early Campus Planning Audiovisual Material"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8d5nf3x0	"Stanford University, Planning Office, Frenchman's Hill Photograph Album"	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt629035x2	"Stanford University, Planning Office, Photographs"	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt629035x2	"Stanford University, Planning Office, Photographs"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/tf0489n48r	"Stanford University, Planning Office, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7g503894	"Stanford University, Planning Office, Records Concerning 1891 Unfinished Dormitory"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3c603525	"Stanford University, Planning Office, Sequoia Hall Historic Values Information Brief"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt1r29r93h	"Stanford University, Plant Services Office, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c83b5zdr	"Stanford University, Post Office, photographs"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3m3nf090	Stanford University Postcard Collection	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt2199r7p2	Stanford University Poster Collection	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt2199r7p2	Stanford University Poster Collection	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt9290403m	"Stanford University, Presidential Search Committee, Report"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3489r9w3	"Stanford University, President's Advisory Committee on ROTC Affairs, Report"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8474cjd	"Stanford University, President's Office, Commission on Undergraduate Education, Records"	ark:/13030/tf458010c5	false
@@ -2585,7 +2604,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt5580394f	"Stanford University, Pre
 http://www.oac.cdlib.org/findaid/ark:/13030/kt9489s3v0	"Stanford University, Press, Archival Book Copies"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7z09s4v3	Stanford University Press Photographs	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt9q2nf77v	Stanford University Press Records	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt896nf89f	Stanford University Print Collection	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt896nf89f	Stanford University Print Collection	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/c8bv7h3f	"Stanford University, Program in African and African American Studies, Honors Theses"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c85x27p0	"Stanford University, Program in American Studies, Honors Theses"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c87083px	"Stanford University, Program in American Studies, records"	ark:/13030/tf458010c5	false
@@ -2624,7 +2643,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt8z09s1wg	Stanford University Rugby
 http://www.oac.cdlib.org/findaid/ark:/13030/kt9p3039hn	"Stanford University, School of Earth Sciences, Oral History Interviews"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7r29s0zd	"Stanford University, School of Earth Sciences, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0199r6jw	"Stanford University, School of Education, Dean's Office, Records"	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt8779s2qs	"Stanford University, School of Education, faculty Photographs"	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt8779s2qs	"Stanford University, School of Education, faculty Photographs"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8w10397h	"Stanford University, School of Education, Minutes"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf0v19n50p	"Stanford University, School of Education, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt887039vw	"Stanford University, School of Education, Research Traineeship Program, Records"	ark:/13030/tf458010c5	false
@@ -2657,14 +2676,13 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt8k403940	"Stanford University, Sta
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2779r6f8	"Stanford University, Stanford Graduate Fellowships, Publications and Ephemera"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3d5nf38m	"Stanford University, Stanford Operations Council, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2b69r936	"Stanford University, Stanford Repertory Theatre, Records"	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt709nf4gt	Stanford University Stereograph Collection	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt709nf4gt	Stanford University Stereograph Collection	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt5489s0wt	"Stanford University, Storey House, Photograph Album"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/ft2v19n6jf	"Stanford University, Student Affairs Committee, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt1s2034w3	"Stanford University, Student Center for Innovation in Research and Education, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2d5nf26s	Stanford University Student Demonstration Audio Collection	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt4c6037q8	Stanford University Student Life Photograph Album	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt496nf2jx	Stanford University Student Life Photographs	ark:/13030/tf458010c5	true
-http://www.oac.cdlib.org/findaid/ark:/13030/kt6m3nf5kg	Stanford University Student Life Photographs	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0v19r7mn	"Stanford University, Student Mental Health and Well-Being Task Force, Report"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8668bxq	Stanford University Student Online Publications Collection	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8bv7j9j	"Stanford University, Study of Undergraduate Education, Records"	ark:/13030/tf458010c5	false
@@ -2696,6 +2714,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt5m3nf3q8	"Stanford University, Wom
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6n39s25h	"Stanford University, Women's Physical Education Department, Records"	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/tf6v19n8nt	"Stanford University, Women's Recreation Association, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt329035rj	"Stanford University, W.W. Hansen Laboratories, Klystron Reports and Patents"	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8br8vfd	"Stanford Unversity, Computer Professionals for Social Responsibility, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8mc91jw	"Stanford Unviersity, Hispanic American Institute, Records"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7489r8xc	Stanford Video Master Recordings	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2g5036p9	Stanford Vietnam Moratorium Collection	ark:/13030/tf458010c5	false
@@ -2768,7 +2787,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt0m3nd5wt	Starr (Chester G.) papers
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2f59r6t8	Starr (Clarence T.) papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8hm592w	Starr (Clifford A.) Collection	ark:/13030/tf0f59p354	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf5v19p029	Starr (Frederick) collection of material relating to Mexico	ark:/13030/tf129008pn	false
-http://www.oac.cdlib.org/findaid/ark:/13030/c8cr5wjb	Starr (Sandra Leonard) Papers	ark:/13030/kt98703819	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8cr5wjb	Starr (Sandra Leonard) Papers	ark:/13030/kt98703819	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt9779s1dz	Starr (Walter A.) miscellaneous papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt400032wc	Stars and stripes editorials	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8r29s12r	State and Consumer Services Agency Records	ark:/13030/tf6g5012g8	false
@@ -2793,7 +2812,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt8k4028td	State Water Rights Board 
 http://www.oac.cdlib.org/findaid/ark:/13030/c8r78ckz	State-County Parks and Beaches Association Records	ark:/13030/kt0g50151g	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt1t1nf0x0	"Statement on Sighting of an Unidentified Flying Object in 1896, Recorded in 1961"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt9d5nf2sr	Statement to the Peace Conference typescript	ark:/13030/tf4m3nb8sq	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt6f59s28r	Statuary for Stanford University Papers	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt6f59s28r	Statuary for Stanford University Papers	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/c8dz08vd	Status of Women Commission Records	ark:/13030/tf6g5012g8	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8sq8zrc	Stauffacher (Jack Werner) Book Jacket Collection	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt887036z0	Stauffenberg (Freiherr Hans Christoph von) speech transcript	ark:/13030/tf4m3nb8sq	false
@@ -2983,6 +3002,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/c8h41qpk	Stinchfield (Jean) Ambassad
 http://www.oac.cdlib.org/findaid/ark:/13030/tf9w1007c7	Stines (Norman C.) Papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3c603258	Stinnett (Robert B.) miscellaneous papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf8n39n9w7	Stirner (Charles) Papers : (Southern California Waiters Alliance)	ark:/13030/tf7q2nb9fm	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8kw5j8v	"Stirniman, E. J. (Edward James) Papers"	ark:/13030/tf1489p250	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c81r6r2p	Stock Certificate Collection	ark:/13030/kt4c60381d	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt4g5003nm	Stock (Chester) papers	ark:/13030/tf938nc278	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf7x0nb5f0	Stockdale (C. E.) Theatrical Cabinet Photograph Collection	ark:/13030/tf1p3008cx	false
@@ -3097,6 +3117,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/c8n0179q	"Straight, W. D. (Willard D
 http://www.oac.cdlib.org/findaid/ark:/13030/c8z89fkc	Strait (Louis Avrom) Papers	ark:/13030/tf0h4nb4sw	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf2z09n5qt	Stransky (Jaroslav) Papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt5j49s01h	Strasser (Bernard) typescript	ark:/13030/tf4m3nb8sq	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8rj4mq7	Strategic Communications Records	ark:/13030/kt3z09r97h	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt000034sj	"Strategic Nuclear Defense, Feasible or Fallible? A Public Forum [videorecording]"	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf4w10046n	"Stratford Shakespearean Festival, Ontario, Canada - Photographs"	ark:/13030/tf7r29p8s0	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8ww7jwg	Stratford Works photograph album	ark:/13030/tf129008pn	false
@@ -3125,7 +3146,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt1r29r9qt	Stringfellow Hazardous Wa
 http://www.oac.cdlib.org/findaid/ark:/13030/tf429003sq	Stringham (Irving) Letters to Concerning Birthday Dinner for George H. Howison	ark:/13030/tf7r29p8s0	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c87p903b	Stringham (Roland I.) drawings of the H. C. Heinz house	ark:/13030/kt8779s1dn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0w1032cq	Strobridge (William S.) mimeograph	ark:/13030/tf4m3nb8sq	false
-http://www.oac.cdlib.org/findaid/ark:/13030/c8pr7z10	"Stroing, Adair Daughters of Rebekah and Independent Order of Odd Fellows collection"	ark:/13030/tf7v19p5n4	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8pr7z10	Stroing (Adair) Daughters of Rebekah and Independent Order of Odd Fellows collection	ark:/13030/tf7v19p5n4	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c83x877t	Strom (Gregg) Papers	ark:/13030/kt2n39q9dc	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8db840c	Stromberg (Hunt) papers	ark:/13030/c8ff3t03	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8j10448	Strom-Martin (Virginia) Papers	ark:/13030/tf6g5012g8	false
@@ -3137,11 +3158,12 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt329035jf	Strong (Lillian) Collecti
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8d5nf1v0	Strong (Sydney) newsletters	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt1b69n701	Strong (William A.) Papers	ark:/13030/tf129008pn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt9h4nf3b5	Stroop (Jurgen) typescript	ark:/13030/tf4m3nb8sq	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt6d5nf5ts	Strout Family Photographs Documenting Stanford University	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt6d5nf5ts	Strout Family Photographs Documenting Stanford University	ark:/13030/tf458010c5	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8f59s01s	Stroynowski (Juliusz) collection	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8f76f86	Strucinski (Mitchell) collection	ark:/13030/tf9d5nc0sj	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf9f59p0g4	"Structures Damaged in the 1868 Earthquake in Hayward, Calif."	ark:/13030/tf7r29p8s0	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt9m3nf3z4	Struggles for Poland video tape	ark:/13030/tf4m3nb8sq	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8hh6n9h	Struss (Karl) photographs	ark:/13030/c8ff3t03	false
 http://www.oac.cdlib.org/findaid/ark:/13030/ft7g5006bc	Struve (Gleb) Papers	ark:/13030/tf5r29p4tz	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf3s2002t1	Struve (Gleb) papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8t1nc7t3	Struve (Otto) Papers	ark:/13030/tf7r29p8s0	false
@@ -3227,6 +3249,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/c8862j64	Sukman (Harry) papers	ark:/
 http://www.oac.cdlib.org/findaid/ark:/13030/tf7c600647	Sullivan (Alice P.) Papers	ark:/13030/tf7r29p8s0	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6g5032v6	Sullivan (Anthony Corbett) v. Immigration and Naturalization Service Legal Records	ark:/13030/kt2n39q9dc	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt887039m8	Sullivan (Charles J.) letters	ark:/13030/tf458010c5	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8p84f45	Sullivan (Charles L.) Collection	ark:/13030/tf1489p250	false
 http://www.oac.cdlib.org/findaid/ark:/13030/ft0w1001rm	Sullivan (James J. ) Collection	ark:/13030/kt2j49q7f8	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8np2578	Sullivan (Leo) Papers	ark:/13030/kt1d5nc252	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf9199n9v3	Sullivan (Louis G.) Papers	ark:/13030/tf8j49p7c9	false
@@ -3271,6 +3294,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt7r29r0jr	Surbeck (Margaret Hart) P
 http://www.oac.cdlib.org/findaid/ark:/13030/tf2b69n5fr	Surface (Frank M.) Papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8x63knn	Surfing Collection	ark:/13030/tf4779p5jq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3d5nd9tb	Surnin (Aleksandr Aleksandrovich) papers	ark:/13030/tf4m3nb8sq	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c80867jm	Surprise Valley Township Road Tax receipts.	ark:/13030/tf7v19p5n4	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0f59r54t	Surush (Abd al-Karim) lectures	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf2q2n98s9	Survey of Race Relations records	ark:/13030/tf4m3nb8sq	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt1f59r5v0	A Survey of Stanford University in Relation to Immediate Needs Report	ark:/13030/tf458010c5	false
@@ -3285,6 +3309,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/tf8b69p0fn	Suter (Max) Papers	ark:/1
 http://www.oac.cdlib.org/findaid/ark:/13030/tf7j49p1pr	Sutherland (A.R.) Collection of Material About the Hungarian Revolution	ark:/13030/tf129008pn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt909nf626	Sutherland (Howard Vigne) Papers	ark:/13030/tf1489p250	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8br8srm	Sutliff (Judith) collection	ark:/13030/tf7779p81b	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8zk5jw7	"Sutnar (Ladislav) papers, Getty Research Institute collection"	ark:/13030/kt98703819	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c83r0thp	Sutro (Adolph) Collection	ark:/13030/tf809nb9vj	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf4w10044m	Sutro (Adolph) Papers	ark:/13030/tf5r29p4tz	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf2p3002p0	Sutro (Adolph) Papers	ark:/13030/tf7r29p8s0	false
@@ -3367,14 +3392,14 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt7b69s08f	Syllabus for the Courses 
 http://www.oac.cdlib.org/findaid/ark:/13030/tf2779n7q6	Sylmar Earthquake Photograph Collection	ark:/13030/tf129008pn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf55800738	"Sylvester (Adrian F.) John Muir Memorial Park, Wisc. Papers"	ark:/13030/tf609nb7wg	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0n39r8f7	Symposium on Mexican Film [videorecording]	ark:/13030/tf458010c5	false
-http://www.oac.cdlib.org/findaid/ark:/13030/tf9k4009h9	Synanon Foundation Records	ark:/13030/tf129008pn	false
+http://www.oac.cdlib.org/findaid/ark:/13030/tf9k4009h9	Synanon Foundation records	ark:/13030/tf129008pn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8416xmm	"Synchronous Club Minutes, August 1915-September 1921"	ark:/13030/kt4c60381d	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6q2nf33x	Syndicat des editeurs issuances	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7779s0dv	Synergy House Photographs of the Murals at 664 San Juan	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8m32wb4	Systematic Theology Congress CollectionSystematic	ark:/13030/c8vq312z	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf429003m4	Systems Development Foundation Records	ark:/13030/tf5r29p4tz	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf5z09n7r7	Szczesna (Joanna) Collection	ark:/13030/tf4m3nb8sq	false
-http://www.oac.cdlib.org/findaid/ark:/13030/c8ff3rp7	Szeemann (Harald) papers	ark:/13030/kt98703819	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8ff3rp7	Szeemann (Harald) Papers	ark:/13030/kt98703819	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0g501782	Szego (Clara M.) Papers	ark:/13030/tf129008pn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8c53j7j	Szidak (Stuart) Photographs	ark:/13030/kt2n39q9dc	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt338n9998	Szilard / Novick Research Files	ark:/13030/tf5r29p653	false
