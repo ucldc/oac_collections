@@ -69,7 +69,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt6b69r8c3	Kapnist (Lieutenant) pape
 http://www.oac.cdlib.org/findaid/ark:/13030/kt5j49p7pc	"Kappa Phi Zeta, Alpha Chapter records"	ark:/13030/tf129008pn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt067nf2nk	Kappe (Ray) Papers	ark:/13030/kt98703819	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf6z09n9db	Kappes (Marion) research material re folk tunes	ark:/13030/tf4000119v	false
-http://www.oac.cdlib.org/findaid/ark:/13030/tf9d5nb3dv	Kaprow (Allan) Papers	ark:/13030/kt98703819	false
+http://www.oac.cdlib.org/findaid/ark:/13030/tf9d5nb3dv	Kaprow (Allan) Papers	ark:/13030/kt98703819	true
 http://www.oac.cdlib.org/findaid/ark:/13030/tf2r29n5r1	Kapusta (Alvin) Collection	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6p3040nw	Kapustianskii (A. P.) typescript	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt5v19q8zd	"Karabian, Walter J. Papers"	ark:/13030/kt9g5024m1	false
@@ -159,7 +159,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/tf938nb3p1	Keats (Mark) Photograph C
 http://www.oac.cdlib.org/findaid/ark:/13030/c8m61ksw	Keddie (Arthur Walter) Family Papers	ark:/13030/tf0f59p354	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf0290010m	Keeler (Charles A.) Papers	ark:/13030/tf7r29p8s0	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8833ss0	Keeler (James E.) Papers	ark:/13030/tf5h4nb7td	false
-http://www.oac.cdlib.org/findaid/ark:/13030/kt8n39s3b6	(Keeler) Leonarde Papers	ark:/13030/tf7r29p8s0	false
+http://www.oac.cdlib.org/findaid/ark:/13030/kt8n39s3b6	(Keeler) Leonarde Papers	ark:/13030/tf7r29p8s0	true
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6q2nf2zc	Keeley (Joseph C.) miscellaneous papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6d5nf4p7	Keeling (Richard) Collection 1979.02	ark:/13030/kt2g501822	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0s2029k3	Keen (Harold) Papers	ark:/13030/tf4779p5jq	false
@@ -361,6 +361,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt4r29r5sv	Kilbride (Gerald) papers	
 http://www.oac.cdlib.org/findaid/ark:/13030/tf9199n9q1	Kilbride (Jerry) Papers	ark:/13030/tf5r29p4sf	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt896nf7rp	"Kilgore, Jr. (Thomas) papers"	ark:/13030/tf1p3009z6	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt9q2nf3rp	Kilgroe (Louisa) typescript	ark:/13030/tf4m3nb8sq	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8z03bdv	Kilian (Dorothy B.) papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c84f1szp	Killalee (Jack Adelbert) papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt4h4nd95g	Killie (Charles A.) Photographs	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nf299	Killingsworth (Edward A.) papers	ark:/13030/kt8779s1dn	false
@@ -494,7 +495,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt8n39s013	Klemm (V.) writings	ark:/
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3h4nf2sj	Kleptko (Frank) Photographs of Stanford University	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3s20334v	Klien (Ferdinand) collection	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c84t6kw0	Kliene Family Collection	ark:/13030/c8zp473v	false
-http://www.oac.cdlib.org/findaid/ark:/13030/c8000496	Kliewer (Mark W.) Papers	ark:/13030/tf1489p250	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8000496	Kliewer (W. Mark) Papers	ark:/13030/tf1489p250	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt600036k8	Kligman (Gail) Collection	ark:/13030/kt2g501822	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8g5036p5	Klimas (Petras) diary excerpts	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8p55phb	Kline (Lee B.) papers	ark:/13030/kt800021wp	false
@@ -548,6 +549,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt1489q845	Knoles Family Collection	
 http://www.oac.cdlib.org/findaid/ark:/13030/kt4j49q3bd	Knoles (George Harmon) Papers	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7f59s00z	Knoll (S.) collection	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7d5nf2wp	Knollin (Robert) papers	ark:/13030/tf4m3nb8sq	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8tf00mh	Knopf (Edwin H. and Mildred O.) papers	ark:/13030/c8ff3t03	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8n3001w	Knopoff (Leon) papers	ark:/13030/tf129008pn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7199s18z	Knorr (Wilbur Richard) Papers	ark:/13030/tf458010c5	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf65800497	Knowland (Joseph R.) Papers	ark:/13030/tf7v19p5mm	false
@@ -690,6 +692,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt696nb9q5	Koudinoff (George) Papers
 http://www.oac.cdlib.org/findaid/ark:/13030/tf1199n4h1	Kouvaras (Kostas) Papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/c8rf5x4p	Kovacs (Ernie) collection	ark:/13030/kt109nf04v	false
 http://www.oac.cdlib.org/findaid/ark:/13030/ft729006px	Kovacs (Ernie) Papers	ark:/13030/tf129008pn	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8t72kp4	Kovic (Ron) papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3p30346q	Kowalczuk (Ilko-Sascha) typescript	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt6p3038sc	Kowalik (Jan) papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt7870370p	Kowalski (Ludwik) papers	ark:/13030/tf4m3nb8sq	false
@@ -709,6 +712,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/c8hd7xr0	Kralj (Kim) papers	ark:/130
 http://www.oac.cdlib.org/findaid/ark:/13030/kt496nb0dj	Krall Family Papers	ark:/13030/kt2j49q7f8	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2k4032t3	Kramer (Howard D.) papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2w1031x4	Kramer (Jack) papers	ark:/13030/tf4m3nb8sq	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c87p91nx	Kramer (Ken) collection	ark:/13030/c8ff3t03	false
 http://www.oac.cdlib.org/findaid/ark:/13030/ft2x0nb09b	Kramer (Stanley) papers	ark:/13030/tf129008pn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt3m3nd8dz	Krasil'nikov (Mikhail Mikhailovich) papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8f59r9ph	Krasil'nikov (S. A.) collection	ark:/13030/tf4m3nb8sq	false
@@ -812,6 +816,7 @@ http://www.oac.cdlib.org/findaid/ark:/13030/kt2h4nd9pm	Kurdish subject collectio
 http://www.oac.cdlib.org/findaid/ark:/13030/kt0r29p3d2	Kurenkov (Aleksandr Aleksandrovich) Papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt2f59q08n	Kurganov (Ivan Alekseevich) Papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt8m3nf5dh	Kurguz (Peter Nicholas) writings	ark:/13030/tf4m3nb8sq	false
+http://www.oac.cdlib.org/findaid/ark:/13030/c8gf0wrz	Kurland (Gil) papers	ark:/13030/c8ff3t03	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf6t1nb4ch	Kurnik (Stanley) Papers	ark:/13030/tf129008pn	false
 http://www.oac.cdlib.org/findaid/ark:/13030/kt4j49r955	Kurtz (Adolf) papers	ark:/13030/tf4m3nb8sq	false
 http://www.oac.cdlib.org/findaid/ark:/13030/tf3x0n99mt	Kurtz (Charles M.) Archive	ark:/13030/kt98703819	false
